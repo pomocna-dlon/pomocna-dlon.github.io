@@ -11,3 +11,8 @@ title: Przekaż 1%
 ![pit](/img/1procent.jpg)
   
 ![baner](/img/Baner_1__Pomocna Dlon.jpg)
+
+<br>
+<br>
+<br>
+<br>
