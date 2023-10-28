@@ -1,5 +1,5 @@
 ---
-title: Jarosławska Fundacja Pomocna Dłoń
+title: Wydarzenia
 ---
 
 <div id="fb-root"></div>
