@@ -2,7 +2,6 @@
 title: Statut
 ---
 
-# Statut
 ![](/img/statut/statut1.jpg)  
 ![](/img/statut/statut2.jpg)  
 ![](/img/statut/statut3.jpg)  

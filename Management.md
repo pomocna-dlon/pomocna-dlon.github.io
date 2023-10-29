@@ -2,8 +2,6 @@
 title: Zarząd
 ---
 
-# Zarząd
-
 **Obecny skład Zarządu Fundacji:**  
 Alicja Zając - **Prezes Zarządu**  
 Maciej Inglot - **Wiceprezes Zarządu**  
@@ -15,22 +13,3 @@ Lucyna Pleśniak - **Prezydent Zgromadzenia**
 Marek Szuba  
 Sławomir Olejarczyk  
 Dawid Nykiel  
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>

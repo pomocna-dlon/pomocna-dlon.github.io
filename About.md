@@ -2,8 +2,6 @@
 title: O nas
 ---
 
-# O nas
-
 Fundacja pod nazwą **"Pomocna dłoń"** została ustanowiona aktem notarialnym w dniu 26.11.1998 r. przed notariuszem mgr Elżbieta Goraj za numerem repertorium A.8040/1998 r. Fundacja została zarejestrowana w rejestrze fundacji prowadzonym przez Sąd Rejonowy dla miasta stołecznego Warszawa XVI Wydział Gospodarczy pod nr 5782 w dniu 10.03.1999 r. i od tej daty rozpoczęła działalność.  
   
 Fundacja uzyskała statut pożytku publicznego w dniu 16.04.2004 r. Statut został przyznany przez Sąd Rejonowy w Rzeszowie.  

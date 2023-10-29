@@ -2,8 +2,6 @@
 title: Kontakt
 ---
 
-# Kontakt
-
 **Adres:**  
 Spytka 5 lok. 4  
 37-500 Jarosław  
@@ -22,19 +20,3 @@ Spytka 5 lok. 4
   
 **KONTO:** 12 9096 0004 2001 0000 2264 0001 - Bank Spółdzielczy w Jarosławiu
   
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
