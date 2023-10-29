@@ -48,9 +48,9 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-nodes="false"
      inkscape:snap-nodes="false"
-     inkscape:zoom="2"
-     inkscape:cx="131.75809"
-     inkscape:cy="-6.2199333"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="87.459383"
+     inkscape:cy="17.440894"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -134,7 +134,7 @@
   </defs>
   <g
      id="sygnet"
-     transform="matrix(0.96162213,0,0,0.96162213,48.920186,-68.774632)">
+     transform="matrix(0.96162213,0,0,0.96162213,108.92019,-68.774632)">
     <path
        class="cls-2"
        d="m 36.14,107.39 c 5.48,0 9.93,4.43 9.93,9.89 0,5.46 -4.45,9.89 -9.93,9.89 -5.48,0 -9.93,-4.43 -9.93,-9.89 0,-5.46 4.45,-9.89 9.93,-9.89 z"
@@ -162,9 +162,10 @@
   </g>
   <g
      id="txt"
-     transform="matrix(0.96162213,0,0,0.96162213,48.334321,-68.941021)">
+     transform="matrix(0.96162213,0,0,0.96162213,96.334321,-68.941021)">
     <g
-       id="g36">
+       id="g36"
+       transform="translate(12.478914)">
       <path
          class="cls-1"
          d="m 53.12,112.51 h 2.33 c 1.05,0 1.83,0.07 2.33,0.25 1.02,0.39 1.65,1.29 1.65,2.42 0,0.95 -0.45,1.75 -1.16,2.2 -0.71,0.45 -1.75,0.5 -3.14,0.5 h -0.99 v 4.68 H 53.13 V 112.5 Z m 1.01,0.98 v 3.42 c 0.57,0.01 1.15,0 1.67,0 0.87,0 1.54,-0.06 1.99,-0.42 0.35,-0.28 0.59,-0.8 0.59,-1.3 0,-0.5 -0.25,-1.02 -0.63,-1.32 -0.45,-0.34 -1.05,-0.38 -1.83,-0.38 h -1.78 z"
@@ -250,7 +251,7 @@
   </g>
   <g
      id="arrow"
-     transform="translate(40.277542,-73.777542)">
+     transform="translate(88.277542,-73.777542)">
     <polygon
        class="cls-1"
        points="200.37,118.04 192.9,111.36 192.9,124.72 "
@@ -261,12 +262,12 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="14.912766"
-     y="15.289665"
+     y="16.17355"
      id="text4838"><tspan
        sodipodi:role="line"
        id="tspan4836"
        x="14.912766"
-       y="15.289665"
+       y="16.17355"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18.66666603px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';fill:#ffffff;fill-opacity:1">Przekaż swój 1,5% naszej organizacji</tspan></text>
   <g
      id="g148"
@@ -404,4 +405,15 @@
        inkscape:connector-curvature="0"
        style="fill:#ffffff" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="10.643028"
+     y="49.957108"
+     id="text5064"><tspan
+       sodipodi:role="line"
+       id="tspan5062"
+       x="10.643028"
+       y="49.957108"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:17.33333397px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';fill:#ffffff;fill-opacity:1">KRS 0000094513</tspan></text>
 </svg>
