@@ -30,3 +30,6 @@ Fundacja realizuje swoje cele poprzez:
 * gimnazjalnych,
 * wyprawki szkolne dla dzieci z biednych rodzin,
 * Wigilia dla ubogich.
+  
+  
+<a style="display:block;text-align:center;" href="img/Certyfikat_RekordCzytania.jpg"><img src="img/Certyfikat_RekordCzytania_220.jpg" alt="Rekord Czytania - Certyfikat" /></a>
