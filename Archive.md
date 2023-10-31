@@ -1,7 +1,8 @@
 ---
 title: Archiwum
 ---
-  
+
+{:refdef: style="text-align: center;"}
 [Rok 2000](Archive2000.md)  
 [Rok 2001](Archive2001.md)  
 [Rok 2002](Archive2002.md)  
@@ -20,3 +21,4 @@ title: Archiwum
 [Rok 2015](Archive2015.md)  
 [Rok 2016](Archive2016.md)  
 [Rok 2017](Archive2017.md)  
+{: refdef}
