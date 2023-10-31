@@ -488,7 +488,7 @@ Mikołaj w Domu Dziecka nr 1<p>Jarosławska Fundacja „Pomocna Dłoń”, podob
 <img src="img/archive_files/SDC13286.JPG" /><br>
 <img src="img/archive_files/SDC13307.JPG" /><br>
 <img src="img/archive_files/SDC13313.JPG" /><br>
-<img src="img/archive_files/mikolaj.JPG" /><br>
+<img src="img/archive_files/mikolaj.jpg" /><br>
 </div>
 </div>
 <div class="archiveItem">
