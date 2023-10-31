@@ -23,64 +23,6 @@ I Charytatywny Turniej Piłkarski<p>W Przemyślu odbył się I Charytatywny Turn
 </div>
 </div>
 <div class="archiveItem">
-<i>2009-03-04 21:14:00</i><br><br>
-Mapa serwisu<br><br>
-<br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:16:00</i><br><br>
-Strona główna<br><br>
-<p style="text-align: justify;">Witaj drogi internauto na oficjalnej stronie <strong>Jarosławskiej Fundacji Pomocna Dłoń</strong>. <br /> <br /> Znajdziesz na tej stronie wszelkie informacje których poszukujesz na temat naszej Fundacji. <br /> <br /> M.in. możesz zdobyć informacje o założeniu Fundacji, przeczytać Nasz Statut, dowiedzieć się kto tworzy Zarząd Naszej Fudnacji oraz poznać Fundatorów. <br /> <br /> Znajdziesz tutaj także dokładny opis Naszej działalności. <br /> <br /> Jeśli chcesz się z Nami skontaktować lub w jakiś sposób wspomóc Naszą szczytną działalność zapraszamy Tutaj w celu poznania Naszych danych teleadresowych. <br /> <br />Z góry dziękujemy za poświęcenie czasu spędzonego na przeglądaniu Naszej strony oraz za uzyskane wsparcie i pomoc.</p><br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:18:00</i><br><br>
-Archiwum<br><br>
-<br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:19:00</i><br><br>
-O nas<br><br>
-<p style="text-align: justify;">Fundacja pod nazwą <strong>"Pomocna dłoń"</strong> została ustanowiona aktem notarialnym w dniu 26.11.1998 r. przed notariuszem mgr Elżbieta Goraj za numerem repertorium A.8040/1998 r. Fundacja została zarejestrowana w rejestrze fundacji prowadzonym przez Sąd Rejonowy dla miasta stołecznego Warszawa XVI Wydział Gospodarczy pod nr 5782 w dniu 10.03.1999 r. i od tej daty rozpoczęła działalność. <br /><br /> Fundacja uzyskała statut pożytku publicznego w dniu 16.04.2004 r. Statut został przyznany przez Sąd Rejonowy w Rzeszowie. <br /><br /> Siedzibą fundacji jest miasto Jarosław ul. Spytka 5/4, a terenem działania jest obszar Rzeczpospolitej Polskiej. Fundacja została wpisana do Krajowego Rejestru Urzędowego Podmiotów Gospodarki Narodowej i otrzymała nr identyfikacji REGON: 650957499 <br /><br /> Fundacji został nadany nr identyfikacji podatkowej <br />NIP: 792-18-78-907 <br /><br /> Fundacja została powołana w celu:</p><ul style="text-align: justify;"><li>pomocy młodzieży i dzieciom niepełnosprawnym,</li><li>pomocy dzieciom i młodzieży z rodzin patologicznych i niepełnych</li><li>pomocy dzieciom i młodzieży dotkniętym ubóstwem</li><li>wspierania działań w zakresie ochrony środowiska.</li></ul><p style="text-align: justify;"><br /> Fundacja realizuje swoje cele poprzez:</p><ul style="text-align: justify;"><li>organizowanie i finansowanie zakupu podręczników, materiałów szkolnych i pomocy naukowych,</li><li>udzielanie pomocy finansowej i rzeczowej osobom w/w,</li><li>organizowanie i finansowanie wypoczynku wakacyjnego i w okresie ferii szkolnych,</li><li>organizowanie i finansowanie imprez sportowych i rekreacyjnych,</li><li>prowadzenie szkoleń i kursów w zakresie ochrony środowiska,</li><li>wyszukiwanie mlodych talentow ze szkol podstawowych, gimnazjalnych i ponad<br />gimnazjalnych,</li><li>wyprawki szkolne dla dzieci z biednych rodzin,</li><li>Wigilia dla ubogich.</li></ul><br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:20:00</i><br><br>
-Statut<br><br>
-<br><br>
-<b>Zdjęcia:</b><br>
-<div class="centerImgs">
-<img src="img/archive_files/statut1.jpg" /><br>
-<img src="img/archive_files/Statut2.jpg" /><br>
-<img src="img/archive_files/Statut3.jpg" /><br>
-<img src="img/archive_files/STATUT4.jpg" /><br>
-<img src="img/archive_files/STATUT5.jpg" /><br>
-<img src="img/archive_files/STATUT6.jpg" /><br>
-<img src="img/archive_files/STATUT7.jpg" /><br>
-<img src="img/archive_files/STATUT8.jpg" /><br>
-<img src="img/archive_files/STATUT9.jpg" /><br>
-<img src="img/archive_files/STATUT10.jpg" /><br>
-</div>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:22:00</i><br><br>
-Fundatorzy<br><br>
-<p style="text-align: justify">Fundacja została ustanowiona przez fundatorów w składzie 5 osobowym: Stanisław Babinetz, Stanisław Marmuźniak, Zdzisław Paszyński, Alicja Zając i Wiesław Zając. Postanowieniem z dnia <strong>26.02.2002 r</strong>. Sąd Rejonowy w Rzeszowie, XII Wydział Gospodarczy Krajowego Rejestru Sądowego wpisał fundacje pod nr <strong>94513</strong>. Organem uprawnionym do reprezentacji jest Zarząd w 5 osobowym składzie, a organem nadzoru Rada Fundatorów 3 osobowym składzie. <br /><br /> Obecny skład Rady Fundatorów:</p><ol><li style="text-align: justify">Stanisław Babinetz </li><li>Alicja Zając </li><li>Zdzisław Paszyński </li><li>Stanisław Marmuźniak </li><li>Wiesław Zając</li></ol><br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:23:00</i><br><br>
-Działalność<br><br>
-<p style="text-align: justify;">Nasza fundacja w ciągu roku organizuje kilka akcji charytatywnych związanych z imprezami dla biednych dzieci:</p><ol><li style="text-align: justify;"><br />Acja przedświąteczna Wielkanocna - rozdajemy biednym dzieciom paczki i talony żywnościowe. </li><li>Akcja z okazji Dnia Dziecka; organizujemy festyny z Miejskim Ośrodkiem Kultury, rozdając nieodpłatnie najbiedniejszym dzieciom - typowanym przez: szkoły, domy dziecka, świetlice środowiskowe, oraz Powiatowe Centrum Pomocy Rodzinie - upominki takie jak: słodycze, odzież, zabawki itp. </li><li>Akcja <strong>"Dożywianie" </strong>- organizujemy dożywianie w szkołach. Pieniądze uzyskujemy z kwest publicznych i sponsorów. </li><li>Akcja <strong>"Mikołajki" </strong>- organizujemy biednym dzieciom nieodpłatne paczki z odzieżą, zabawkami i słodyczami.</li><li>Akcja propagandowo - uświadamiająca, która ma na celu przestrzec młodzież przed czyhającymi na nich niebezpieczeństwami, oraz przed wkraczaniem na droge przestępczości. Spotkania są prowadzone z przedstawicielami prokuratury. </li><li>W najbliższym czasie nasza fundacja planuje założyć <strong>Ośrodek Socjoterapeutyczny</strong> dla dzieci i młodzieży z rodzin patologicznych i biednych.</li><li>Wyprawki szkolne dla dzieci z biednych rodzin.</li><li>Wigilia dla ubogich.</li></ol><br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:23:00</i><br><br>
-Galeria<br><br>
-<p>Etiam sed nulla placerat erat rhoncus sagittis. Donec convallis. Integer id orci. Donec semper tincidunt dolor. Quisque sit amet nisi. Maecenas sapien nulla, volutpat vitae, pretium ac, aliquet quis, est. Nunc euismod. Duis elit lacus, blandit sed, iaculis mollis, laoreet vitae, leo. Mauris ultricies auctor urna. Suspendisse in tellus. Integer leo lacus, pretium eu, congue vitae, molestie id, nisl. Fusce lectus augue, vulputate nec, mollis condimentum, vulputate in, enim.</p><br><br>
-</div>
-<div class="archiveItem">
-<i>2009-03-04 21:24:00</i><br><br>
-Kontakt<br><br>
-<p><strong>Adres:</strong></p><p>Spytka 5 lok. 4<br />37-500 Jarosław</p><p><strong>Komórka:</strong> +48 696 475 057</p><p><strong>e-mail:</strong> <a href="mailto:pomocnadlon12@interia.pl">pomocnadlon12@interia.pl</a></p><p> </p><p><strong>NIP:</strong> 792-18-78-907</p><p><strong>KRS:</strong> 0000094513</p><p><strong>REGON:</strong> 650957499</p><p> </p><p><strong>KONTO:</strong> 12 9096 0004 2001 0000 2264 0001 - Bank Spółdzielczy w Jarosławiu</p><p><strong></strong></p><br><br>
-</div>
-<div class="archiveItem">
 <i>2009-03-25 11:51:00</i><br><br>
 &quot;Masz talent&quot; w PWSZ w Jarosławiu<p>25 marca br. w Państwowej Wyższej Szkole Zawodowej im. ks. Bronisława Markiewicza w Jarosławiu w Dniach Otwartych Uczelni Fundacja Pomocna Dłoń we współpracy z Urzędem Miasta Jarosławia zorganizowała i przeprowadziła eleminacje do programu artystycznego "Masz Talent". Finał odbędzie się 1-go i 2-go Maja podczas Jarosławskich Majówek.</p><br><br>
 <p> </p><p>25 marca br. w Państwowej Wyższej Szkole Zawodowej im. ks. Bronisława Markiewicza w Jarosławiu w Dniach Otwartych Uczelni Fundacja Pomocna Dłoń we współpracy z Urzędem Miasta Jarosławia zorganizowała i przeprowadziła eleminacje do programu artystycznego "Masz Talent". Finał odbędzie się 1-go i 2-go maja podczas Jarosławskich Majówek.</p><p>W jury zasiadali Przewodniczący Jacek Ścibor dr Sztuki Uniwersytetu Rzeszowskiego - Instytut Muzyki,  Henryk Cebula satyryk - grafik, absolwent Akademii Sztuk Pięknych w Krakowie, Panie z Działu Kultury, Turystyki i Promocji Miasta Urzędu Miasta Jarosławia Katarzyna Kędzior oraz Małgorzata Wielgos oraz Piotr Maziarz kierownik Działu Praktyk PWSZ.</p><p> </p><br><br>

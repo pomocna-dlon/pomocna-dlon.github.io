@@ -19,11 +19,6 @@ Program &quot;Masz talent&quot; oraz Mikołajki w Chłopicach<p>W dniu 14.12.201
 </div>
 </div>
 <div class="archiveItem">
-<i>2012-01-04 21:20:00</i><br><br>
-Zarząd<br><br>
-<p style="text-align: justify;"><strong>Obecny skład Zarządu Fundacji: </strong><br />Alicja Zając - <strong>Prezes Zarządu</strong><br />Maciej Inglot - <strong>Wiceprezes Zarządu</strong><br />Wiesław Zając -<strong> Członek Zarządu</strong><strong><br /></strong>Lucyna Pleśniak -<strong> Prezydent Zgromadzenia</strong></p><p style="text-align: justify;"><strong>Organ nadzoru:</strong></p><p>Marek Szuba<br />Sławomir Olejarczyk<br />Dawid Nykiel</p><p style="text-align: justify;"><strong><br /></strong></p><br><br>
-</div>
-<div class="archiveItem">
 <i>2012-01-16 10:49:00</i><br><br>
 &quot;Koncert Charytatywny&quot; zespołu Dżem - 27.02.2012 r.<p>Zapraszamy na koncert charytatywny, gdzie gwiazdą wieczoru będzie zespół <strong>Dżem</strong>. Koncert odbędzie się w <strong>Hali SPortowej MOSiR</strong> Jarosław w dniu <strong>27.02.2012 r.</strong> o godzinie<strong> 17:40. </strong></p><br><br>
 <p><strong>W programie:</strong><br />Finaliści "Masz Talent" godz, 17.40<br />Daniel Lipiec<br />Monika Czarny<br /><br /><br /><strong>Gościnnie wystąpią:</strong><br />The Other Way<br />Marcin Kołpak<br />Magdalena Chodak<br />Arkadiusz Kłusowski<br />Hubert Bisto</p><p><br /><strong>KONCERT zespołu Dżem godz. 19.00</strong><br /><br /><br />Bilety  w cenie 30.00 PLN  <br />Będą są do nabycia w:<br />MOSiR Hala Sportowa, MOK - Jarosław,<br />Kanapkowy Raj - ul. Kraszewskiego  4<br />Sklep Muzyczny HIT - ul Grunwaldzka 22A<br />Pizzeria  CORLEONE  - ul Baśki Puzon 2</p><p> </p><p>Wszelkie informacje można uzyskać od Prezes Fundacji Pomocna Dłoń P. Alicji Zając pod numerem tel. 696-475-057 lub e-mail <a href="mailto:pomocnadlon12@interia.pl">pomocnadlon12@interia.pl</a></p><br><br>
@@ -142,11 +137,6 @@ IV eliminacje Masz Talent <p>W środę Centrum Kultury i Promocji w Jarosławiu 
 <img src="img/archive_files/Masz-Talent-2012 8.jpg" /><br>
 <img src="img/archive_files/Masz-Talent-2012 9.jpg" /><br>
 </div>
-</div>
-<div class="archiveItem">
-<i>2012-05-10 12:49:00</i><br><br>
-Zamów reklamę<br><br>
-<p><strong>Zapraszamy do zgłaszania reklam, które będą wyświetlane na stronie Fundacji www.pomocna-dlon.com</strong>!<br /><br />Środki zgromadzone z reklam zostaną przekazane na cele statutowe Naszej Fundacji.<br /><br />Umieszczając u nas reklamę pomagasz potrzebującym dzieciom i młodzieży.<br /><br />Sponsorzy którzy chcieliby przekazać środki dla Jarosławskiej Fundacji będą również uhonorowani na naszej stronie.</p><p>Skontaktuj się z nami w celu udostępnienia specyfikacji.</p><p>Biuro: +48 16 621-11-72<br />Komórka: 48 696 475 057<br />e-mail: pomocnadlon12@interia.pl</p><br><br>
 </div>
 <div class="archiveItem">
 <i>2012-05-22 08:32:00</i><br><br>

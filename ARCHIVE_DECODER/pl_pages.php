@@ -119,7 +119,6 @@
 103$25$Podziękowanie$$<p>Podziękowanie od Tomasza Lisa (Tele Tydzień) za zaproszenie na Jarosławską Majówkę przez Jarosławską Fundację Pomocna Dłoń.</p>$1$0$2$1$0$$1241614860$0$0$0$
 138$25$Podziękowanie - statuetka$$<p>Podziękowanie w postaci statuetki dla Pani Alicji Zając od Wojewody Podkarpackiego Mirosława Karapyty za organizację koncertu charytatywnego "Podarujmy chorym dzieciom uśmiech".</p>$1$0$2$1$0$$1294989360$0$0$0$
 58$25$Podziękowanie dla sponsorów i wolontariuszy$$<p>W imieniu Fundacji "Pomocna Dłoń" pragniemy serdecznie podziękować wszystkim sponsorom i wolontariuszom, którzy przyczynili się do kolejnej akcji pomocy.</p>$1$0$2$1$0$$1015933200$0$0$0$
-21$0$Powiadom znajomego$$$1$0$5$1$0$$1303107720$0$0$0$
 153$25$Prezes Jarosławskiej Fundacji &quot;Pomocna Dłoń&quot; - kandydat na posła$$<p>Prezes Jarosławskiej Fundacji "Pomocna Dłoń" startować będzie w wyborach Sejmowych z ramienia Polskiego Stronnictwa Ludowego. <strong>Lista 5 miejsce 21</strong>.<br /> <em>"Jedynie prawdziwy człowik zauważy potrzeby innego człowieka, jedynie człowiek wielkiego serca wyciągnie doń pomocną dłoń"</em></p>$1$0$2$1$0$$1316066640$0$0$0$
 155$25$Program &quot;Masz talent&quot; oraz Mikołajki w Chłopicach$$<p>W dniu 14.12.2011r. Jarosławska fundacja "Pomocna dłoń" zorganizowała w  Chłopicach  Świąteczny Koncert charytatywny, połączony z programem "Masz  Talent".</p>$1$0$2$1$0$$1325684700$0$0$0$
 57$25$Program z okazji Dnia Dziecka$$<p>Fundacja "Pomocna Dłoń" w dniu 1 czerwca 2002 r. na stadionie Miejskiego Ośrodka Kultury przygotowała trzygodzinny program z okazji Dnia Dziecka.</p>$1$0$2$1$0$$1023532680$0$0$0$
@@ -142,11 +141,9 @@
 178$25$Spotkanie z autorką książki &quot;Blizny dzieciństwa Sybir 1940-1945 &quot;$$<p><span class="userContent">Spotkanie  z  autorką książki  "Blizny   dzieciństwa  Sybir 1940-1945"                     Maria Anna Czeżewska   Drostek  -  Pałac w Boratynie  16.08.2013 r.<br /></span></p>$1$0$2$1$0$$1377082980$0$0$0$
 111$25$Sprawozdanie filmowe z Mikołajek w Roźwienicy$$<p>W Mikołajki - 6 grudnia dzieci i młodzież z Gminy Roźwienica mogły zaprezentować swoje talenty, które oceniane były przez jury pod przewodnictwem Arkadiusza Kłusowskiego. Po koncercie szkołę w której odbywała się impreza odwiedził Święty Mikołaj.</p>$1$0$2$1$0$$1261473840$0$0$0$
 119$25$Sprzet dla najmłodszych pacjentów COM$$<p style="text-align: left;"><strong>"Pomóżmy dzieciom po urazie".</strong> Takie założenie miał zorganizowany 14  marca przez <strong>Jarosławską Fundację "Pomocna Dłoń" </strong>koncert zespołu Dżem. To właśnie na zakup sprzętu Fundacja przekazała zebrane z koncertu  pieniądze. W jednej z sal Centrum Opieki Medycznej stanęły trzy nowe  łóżka z całym wyposażeniem.</p>$1$0$2$1$0$$1272448800$0$0$0$
-32$0$Strona główna$$$0$0$2$1$0$$1236197760$0$0$0$
 48$25$Swięty Mikołaj w MOK-u$$<p>Zorganizowanie odwiedziń Świętego Mikołaja w jarosławskim MOK-u - obdarowanie ponad 300 dzieciaków z ubogich rodzin.</p>$1$0$2$1$0$$1102332300$0$0$0$
 49$25$Swięty Mikołaj w szkołach w Makowisku$$<p>Organizacja imprezy Mikołajkowej w Szkole Podstawowej i Gimnazjum w Makowisku - przekazanie paczek dla 130 uczniów.</p>$1$0$2$1$0$$1102159620$0$0$0$
 71$25$Szansa na Sukces $$<p>Na jarosławskim rynku o godz. 17. rozpoczął się program artystyczny pod nazwa Szansa na Sukces - przygotowany i przeprowadzony przez naszą fundacje.</p>$1$0$2$1$0$$1179335760$0$0$0$
-20$0$Tagi$$$1$0$5$1$0$$$$$$
 60$25$Talony na Dzień Dziecka$$<p>Dzień Dziecka pod patronatem Senatora RP Andrzeja Tadeusza Mazurkiewicza, Burmistrza Jarosławia Jana Gilowskiego oraz Fundacji "Pomocna Dłoń", której Prezesem jest Alicja Zając.</p>$1$0$2$1$0$$991565040$0$0$0$
 114$25$To był udany koncert$$<p>Gwiazdą niedzielnego wieczoru (14 bm.) był legendarny zespół Dżem, który zagrał swoje największe przeboje. Jako support wystąpili zaś młodzi artyści, uczestnicy pilotowanego przez fundację konkursu „Masz talent”: Arek Kłusowski, Kinga Zalot, Ewelina i Sylwia Przybył, Iwona Rogóż oraz rzeszowski zespół Amiti.</p>$1$0$2$1$0$$1268995440$0$0$0$
 211$25$Uroczystość wręczenia Certyfikatów Bicia Rekordów Polski$$<p>W dniu 27.11.2015 w Sali Ślubów Jarosław odbyła się Uroczystość wręczenia Certyfikatów Bicia Rekordów Polski...</p>$1$0$2$1$0$$1448987220$0$0$0$
@@ -164,7 +161,6 @@
 43$25$Wizyta na Ukrainie$$<p>06.Wizyta na Ukrainie - Jaworów - przekazanie polskim dzieciom pomocy w postaci darów materialnych i rzeczowych</p>$1$0$2$1$0$$1118225880$0$0$0$
 110$25$Wizyta św. Mikołaja w Roźwienicy$$<p>6 grudnia dzieci i młodzież z Gminy Roźwienica odwiedził św. Mikołaj. To właśnie z inicjatywy Fundacji rozdano ponad 200 mikołajkowych paczek i upominków oraz 60 pluszowych maskotek...</p>$1$0$2$1$0$$1261062360$0$0$0$
 210$25$Wybory do Senatu$$<p>Zachęcamy do wzięcia udziału w głosowaniu w wyborach w dniu 25.10.2015r.</p>$1$0$2$1$0$$1443195360$0$0$0$
-18$0$Wyniki wyszukiwania$$$1$0$5$1$0$$$$$$
 143$25$Wypełnij bezpłatnie swój PIT $$<p>Wypełnij bezpłatnie swój PIT online i przekaż 1% na OPP KRS: 0000094513 JAROSŁAWSKA FUNDACJA "POMOCNA DŁOŃ"</p>$1$0$2$1$0$$1300183500$0$0$0$
 89$25$Wyprawka szkolna$$<p>Uczniowie szkoły podstawowej nr. 6 w Jarosławiu im. ks. Piotra Skargi otrzymali wyprawki szkolne składające się z plecaków z wyposażeniem.</p>$1$0$2$1$0$$967725120$0$0$0$
 154$25$Wyprawka szkolna$$<p>W tym roku - Jarosławska Fundacja "Pomocna dłoń" -  rozdała wyprawki  szkolne uczniom  wytypowanym przez dyrekcję Szkoły Gimnazjum w Muninie i  Wójta Gminy Chłopice.</p>$1$0$2$1$0$$1320770760$0$0$0$
@@ -178,7 +174,6 @@
 104$25$Wywiad ze Strongmanem Arturem Walczakiem $$<p>Wywiad przeprowadzony przez Prezes Jarosławskiej Fundacji Pomocna Dłoń ze utytułowanym zawodnikiem Strongmanem Arturem Walczakiem, zwycięzcą w Pucharze Europy 2004 (22 sierpień 2009 XIX Zlot Motocyklowy Motorbike).</p><ul></ul>$1$0$2$1$0$$1250933700$0$0$0$
 130$25$Z uśmiechem do szkoły -  wyprawki szkolne 2010$$<p>W piątkowe popołudnie, 27 sierpnia, jarosławska Fundacja "Pomocna Dłoń"  przekazała wyprawki do szkoły podopiecznym z Duszpasterstwa Osób  Niepełnosprawnych w Archidiecezji Przemyskiej "Arka" przy Parafii Bożego  Ciała w Jarosławiu.</p>$1$0$2$1$0$$1284366900$0$0$0$
 228$25$Zakup sprzętu dla szpitala$$Jarosławska Fundacja "Pomocna dłoń" zakupiła i przekazała do Centrum Opieki Medycznej w Jarosławiu butlę VDS 50 do wykonywania zabiegów krioterapii miejscowej, na potrzeby Rehabilitacji Leczniczej.$1$0$2$1$0$$1481198220$0$0$0$
-162$0$Zamów reklamę$$$1$0$1$1$0$$1336646940$0$0$0$
 113$25$Zapraszamy na koncert charytatywny zespołu Dżem !!$$<p>Zapraszamy serdecznie na koncert charytatywny zespołu Dżem, który odbędzie się <strong>14 marca 2010 r</strong>. <strong>o godzinie 18:00</strong> w sali sportowej Państwowej Wyższej Szkoły Zawodowej w Jarosławiu.</p>$1$0$2$1$0$$1265802540$0$0$0$
 52$25$Zorganizowanie akcji charytatywnej dla parafii pw. Św. Brata Alberta w Szówsku$$<p>Zorganizowanie akcji charytatywnej dla parafii pw. Św. Brata Alberta w Szówsku - objęcie pomocą ok. 50 biednych i potrzebujących rodzin.</p>$1$0$2$1$0$$1081247520$0$0$0$
 170$25$Zwrot biletów z koncertu Weekend$$<p>Informujemy, że  w dniu 22.03.2013 r.  Koncert  zespołu Weekend nie  odbędzie się. Prosimy Państwa o zachowanie biletów z koncertu, który się  nie odbył w dniu: 07.02.2013, do czasu rozprawy sądowej.</p>$1$0$2$1$0$$1363081680$0$0$0$
@@ -190,13 +185,3 @@
 152$25$Święto chleba$$<p>W niedzielę, 24 lipca, jarosławski Rynek tętnił życiem jak mało kiedy.  Sprawiły to obchody Święta Chleba połączonego z Jarosławskim Spotkaniem z  Folklorem i Sztuką Ludową, zorganizowane przez Starostwo Powiatowe i  Stowarzyszenie Miłośników Jarosławia.</p>$0$0$2$1$0$$1312178580$0$0$0$
 140$25$Koncert charytatywny &quot;Podarujmy dzieciom uśmiech&quot; - gwiazda Modern Talking Reloaded Double Show$$<p>Jarosławska Fundacja "Pomocna dłoń" zaprasza na koncert charytatywny pt. <strong>"Podarujmy dzieciom uśmiech"</strong>, który odbędzie się w dniu 3.04.2011 r. o godzinie 17:00 w Hali Spotrowej MOSiR Jarosław.</p>$1$1$2$1$0$$1301039040$0$0$0$
 198$25$Masz talent - eliminacje$$<p><span style="color: #444444; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Jarosławska Fundacja Pomocna Dłoń wraz z Centrum Kultury i Promocji Miasta Jarosławia</span><strong style="color: #444444; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"> </strong><span style="color: #444444; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">zapraszają na </span><strong style="color: #444444; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Program "Masz Talent"...</strong></p>$1$1$2$1$0$$1428001860$0$0$0$
-231$0$Wydarzenia$$$1$1$2$1$0$$1487717280$1$0$0$
-25$0$Archiwum$$$1$2$2$3$0$$1236197880$0$0$0$
-19$0$Mapa serwisu$$$1$2$1$1$0$$1236197640$0$0$0$
-1$0$O nas$$$1$3$2$2$0$$1236197940$1$0$0$
-3$0$Statut$$$1$4$2$2$0$$1236198000$0$0$0$
-33$0$Zarząd$$$1$5$2$2$0$$1325708400$0$0$0$
-34$0$Fundatorzy$$$1$6$2$2$0$$1236198120$0$0$0$
-35$0$Działalność$$$1$7$2$2$0$$1236198180$0$0$0$
-4$0$Galeria$$$0$8$2$4$0$$1236198180$0$0$0$
-2$0$Kontakt$$$1$9$2$1$0$$1236198240$0$0$0$
