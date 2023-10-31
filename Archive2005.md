@@ -41,7 +41,7 @@ Akcja propagandowo-uświadamiająca<p>Akcja propagandowo-uświadamiająca z prze
 <div class="archiveItem">
 <i>2005-12-11 12:11:00</i><br><br>
 Mikołajki 2005<p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" w Jarosławiu, dzieci ze Szkoły Podstawowej w Morawsku oraz dla dzieci ze Szkoły Podstawowej Nr 7 w Dolnoleżajsku.</p><br><br>
-<p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" w Jarosławiu, dzieci ze Szkoły Podstawowej w Morawsku oraz dla dzieci ze Szkoły Podstawowej Nr 7 w Dolnoleżajsku.</p>|n|<p>Rozdanie paczek mikołajowych w innych szkołach podstawowych w Jarosławiu. Rozdano nieodpłatnie 330 paczek ze słodyczami, zabawkami oraz odzieżą.</p><br><br>
+<p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" w Jarosławiu, dzieci ze Szkoły Podstawowej w Morawsku oraz dla dzieci ze Szkoły Podstawowej Nr 7 w Dolnoleżajsku.</p><p>Rozdanie paczek mikołajowych w innych szkołach podstawowych w Jarosławiu. Rozdano nieodpłatnie 330 paczek ze słodyczami, zabawkami oraz odzieżą.</p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/05.jpg" /><br>

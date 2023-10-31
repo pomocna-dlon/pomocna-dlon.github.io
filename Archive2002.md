@@ -5,12 +5,12 @@ title: Archiwum 2002
 <div class="archiveItem">
 <i>2002-03-12 12:40:00</i><br><br>
 Podziękowanie dla sponsorów i wolontariuszy<p>W imieniu Fundacji "Pomocna Dłoń" pragniemy serdecznie podziękować wszystkim sponsorom i wolontariuszom, którzy przyczynili się do kolejnej akcji pomocy.</p><br><br>
-<p>W imieniu Fundacji "Pomocna Dłoń" pragniemy serdecznie podziękować wszystkim sponsorom i wolontariuszom, którzy przyczynili się do kolejnej akcji pomocy.</p>|n|<p>W dniu 16 marca br. rozdane zostały nieodpłatnie bony towarowe wartości 100 zł każdy, artykuły spożywcze, obuwie, środki chemiczne i baranki dla ludzi potrzebujących z parafii Bożego Ciała. Łączna kwota przekazanych darów wynosiła <strong>14 tys. zł.</strong></p><br><br>
+<p>W imieniu Fundacji "Pomocna Dłoń" pragniemy serdecznie podziękować wszystkim sponsorom i wolontariuszom, którzy przyczynili się do kolejnej akcji pomocy.</p><p>W dniu 16 marca br. rozdane zostały nieodpłatnie bony towarowe wartości 100 zł każdy, artykuły spożywcze, obuwie, środki chemiczne i baranki dla ludzi potrzebujących z parafii Bożego Ciała. Łączna kwota przekazanych darów wynosiła <strong>14 tys. zł.</strong></p><br><br>
 </div>
 <div class="archiveItem">
 <i>2002-06-08 12:38:00</i><br><br>
 Program z okazji Dnia Dziecka<p>Fundacja "Pomocna Dłoń" w dniu 1 czerwca 2002 r. na stadionie Miejskiego Ośrodka Kultury przygotowała trzygodzinny program z okazji Dnia Dziecka.</p><br><br>
-<p>Fundacja "Pomocna Dłoń" w dniu 1 czerwca 2002 r. na stadionie Miejskiego Ośrodka Kultury przygotowała trzygodzinny program z okazji Dnia Dziecka.</p>|n|<p>Wartość rozdanych prezentów wynosiła łącznie <strong>25 tys. zł</strong>. Spotkanie upłynęło w miłej atmosferze. Dzieci bawiły się wspaniale. Zorganizowano wiele konkursów m.in. malarski i wybory miss wśród dzieci. Wystąpiła grupa taneczna rap z Jankowic pod kierunkiem Anny Bojarskiej i Krystyny Missa.</p>|n|<p>Odbył się też pokaz mody od zarania dziejów Polski.</p><br><br>
+<p>Fundacja "Pomocna Dłoń" w dniu 1 czerwca 2002 r. na stadionie Miejskiego Ośrodka Kultury przygotowała trzygodzinny program z okazji Dnia Dziecka.</p><p>Wartość rozdanych prezentów wynosiła łącznie <strong>25 tys. zł</strong>. Spotkanie upłynęło w miłej atmosferze. Dzieci bawiły się wspaniale. Zorganizowano wiele konkursów m.in. malarski i wybory miss wśród dzieci. Wystąpiła grupa taneczna rap z Jankowic pod kierunkiem Anny Bojarskiej i Krystyny Missa.</p><p>Odbył się też pokaz mody od zarania dziejów Polski.</p><br><br>
 </div>
 <div class="archiveItem">
 <i>2002-12-05 12:37:00</i><br><br>

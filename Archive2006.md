@@ -10,7 +10,7 @@ Akcja Świąteczna<p>Paczki dla Szkół Gimnazjum nr 3 – Jarosław, gimnazjum 
 <div class="archiveItem">
 <i>2006-05-31 21:34:00</i><br><br>
 Festyn z okazji Dnia Dziecka w Morawsku<p>Festyn z okazji Dnia Dziecka w Morawsku. Rozdanie dzieciom z ubogich rodzin paczek ze słodyczami i gadżetów.</p><br><br>
-<p>Festyn z okazji Dnia Dziecka w Morawsku.</p>|n|<p>Rozdanie dzieciom z ubogich rodzin paczek ze słodyczami i gadżetów.</p><br><br>
+<p>Festyn z okazji Dnia Dziecka w Morawsku.</p><p>Rozdanie dzieciom z ubogich rodzin paczek ze słodyczami i gadżetów.</p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/morawsko-dzien-dziecka-2006.jpg" /><br>
@@ -19,7 +19,7 @@ Festyn z okazji Dnia Dziecka w Morawsku<p>Festyn z okazji Dnia Dziecka w Morawsk
 <div class="archiveItem">
 <i>2006-06-02 20:53:00</i><br><br>
 Dzień Dziecka w przedszkolu nr 10<p>Fundacja Pomocna Dłoń zorganizowała i przeprowadziła Dzień Dziecka dla uczniów przedszkola numer 10 w Jarosławiu. Dzieci otrzymały prezenty oraz brały udział w grach, konkursach i zabawach.</p><br><br>
-<p>Fundacja Pomocna Dłoń zorganizowała i przeprowadziła Dzień Dziecka dla uczniów przedszkola numer 10 w Jarosławiu. Dzieci otrzymały prezenty oraz brały udział w grach, konkursach i zabawach.</p>|n|<p>Honorowymi goścmi ww. imprezy byli przedstawiciele z miasta SCHÖNEBECK.</p><br><br>
+<p>Fundacja Pomocna Dłoń zorganizowała i przeprowadziła Dzień Dziecka dla uczniów przedszkola numer 10 w Jarosławiu. Dzieci otrzymały prezenty oraz brały udział w grach, konkursach i zabawach.</p><p>Honorowymi goścmi ww. imprezy byli przedstawiciele z miasta SCHÖNEBECK.</p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/3[2].jpg" /><br>

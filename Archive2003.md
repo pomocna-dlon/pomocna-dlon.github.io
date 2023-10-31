@@ -10,7 +10,7 @@ Akcja propagandowo-uświadamiająca w Gimnazjum nr 3<p>Akcja propagandowo-uświa
 <div class="archiveItem">
 <i>2003-06-01 22:25:00</i><br><br>
 Festyn z okazji Dnia Dziecka<p>Przeprowadzono festyn z okazji Dnia Dziecka. Odbyło się rozdanie prezentów dla dzieci potrzebujących.</p><br><br>
-<p>Przeprowadzono festyn z okazji Dnia Dziecka. Odbyło się rozdanie prezentów dla dzieci potrzebujących.</p>|n|<p>Zorganizowano także Dzień Dziecka w świetlicy środowiskowej przy Kościele pw. Bożego Ciała w Jarosławiu.</p><br><br>
+<p>Przeprowadzono festyn z okazji Dnia Dziecka. Odbyło się rozdanie prezentów dla dzieci potrzebujących.</p><p>Zorganizowano także Dzień Dziecka w świetlicy środowiskowej przy Kościele pw. Bożego Ciała w Jarosławiu.</p><br><br>
 </div>
 <div class="archiveItem">
 <i>2003-06-05 22:26:00</i><br><br>
@@ -35,7 +35,7 @@ Przekazanie przez firmę LU 9 ton ciastek<p>Firma <strong>LU</strong> przekazał
 <div class="archiveItem">
 <i>2003-12-06 22:32:00</i><br><br>
 Rozdanie 300-stu paczek potrzebującym<p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcje mikołajkowe których efektem było przekazanie prezentów i paczek dla potrzebujących dzieci.</p><br><br>
-<p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcje mikołajkowe których efektem było przekazanie prezentów i paczek dla potrzebujących dzieci.</p>|n|<p>Rozdano blisko 300 paczek.</p><br><br>
+<p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcje mikołajkowe których efektem było przekazanie prezentów i paczek dla potrzebujących dzieci.</p><p>Rozdano blisko 300 paczek.</p><br><br>
 </div>
 <div class="archiveItem">
 <i>2003-12-23 12:32:00</i><br><br>

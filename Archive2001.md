@@ -5,7 +5,7 @@ title: Archiwum 2001
 <div class="archiveItem">
 <i>2001-12-02 12:41:00</i><br><br>
 Dary dla dzieci potrzebujących<p>W niedzielę 2 grudnia 2001 r. w sali widowiskowej Miejskiego Ośrodka Kultury obdarowano ok. 300 dzieci z różnych placówek z Jarosławia i okolic.</p><br><br>
-<p>W niedzielę 2 grudnia 2001 r. w sali widowiskowej Miejskiego Ośrodka Kultury obdarowano ok. 300 dzieci z Domu Dziecka Nr 1 przy ul. Poniatowskiego, Polskiego Stowarzyszenia na Rzecz Osób z Upośledzeniem Umysłowym, świetlic środowiskowych przy Kolegiacie i parafii NMP Królowej Polski, Polskiego Związku Niewidomych Koło w Jarosławiu, Specjalnego Ośrodka Szkolno Wychowawczego, wszystkich gimnazjów z Jarosławia oraz z Piwody, jarosławskich szkół podstawowych, Zespołu Szkół Ogólnokształcących Nr 2, a także z rodzin wytypowanych przez Powiatowe Centrum Pomocy Rodzinie.</p>|n|<p>Łączna wartość paczek to ok.<strong> 30 tys. zł</strong>. W programie artystycznym przygotowanym na tę okazję wystąpił zespół Państwowego Ogniska Baletowego oraz uczniowie Publicznego Gimnazjum nr 3.</p><br><br>
+<p>W niedzielę 2 grudnia 2001 r. w sali widowiskowej Miejskiego Ośrodka Kultury obdarowano ok. 300 dzieci z Domu Dziecka Nr 1 przy ul. Poniatowskiego, Polskiego Stowarzyszenia na Rzecz Osób z Upośledzeniem Umysłowym, świetlic środowiskowych przy Kolegiacie i parafii NMP Królowej Polski, Polskiego Związku Niewidomych Koło w Jarosławiu, Specjalnego Ośrodka Szkolno Wychowawczego, wszystkich gimnazjów z Jarosławia oraz z Piwody, jarosławskich szkół podstawowych, Zespołu Szkół Ogólnokształcących Nr 2, a także z rodzin wytypowanych przez Powiatowe Centrum Pomocy Rodzinie.</p><p>Łączna wartość paczek to ok.<strong> 30 tys. zł</strong>. W programie artystycznym przygotowanym na tę okazję wystąpił zespół Państwowego Ogniska Baletowego oraz uczniowie Publicznego Gimnazjum nr 3.</p><br><br>
 </div>
 <div class="archiveItem">
 <i>2001-12-03 14:49:00</i><br><br>
@@ -29,7 +29,7 @@ Akcja charytatywna<p>Akcja charytatywna zorganizowana dla biednych rodzin wytypo
 <div class="archiveItem">
 <i>2001-06-03 12:44:00</i><br><br>
 Talony na Dzień Dziecka<p>Dzień Dziecka pod patronatem Senatora RP Andrzeja Tadeusza Mazurkiewicza, Burmistrza Jarosławia Jana Gilowskiego oraz Fundacji "Pomocna Dłoń", której Prezesem jest Alicja Zając.</p><br><br>
-<p>Dzień Dziecka pod patronatem Senatora RP Andrzeja Tadeusza Mazurkiewicza, Burmistrza Jarosławia Jana Gilowskiego oraz Fundacji "Pomocna Dłoń", której Prezesem jest Alicja Zając.</p>|n|<p>Rozdano <strong>210 talonów</strong> dla szkół podstawowych, gimnazjów, świetlic środowiskowych, OO. Reformatów i Domu Dziecka Nr 2.</p>|n|<p>Talony upoważniały do odbioru cennych upominków w postaci odzieży, zabawek i słodyczy.</p><br><br>
+<p>Dzień Dziecka pod patronatem Senatora RP Andrzeja Tadeusza Mazurkiewicza, Burmistrza Jarosławia Jana Gilowskiego oraz Fundacji "Pomocna Dłoń", której Prezesem jest Alicja Zając.</p><p>Rozdano <strong>210 talonów</strong> dla szkół podstawowych, gimnazjów, świetlic środowiskowych, OO. Reformatów i Domu Dziecka Nr 2.</p><p>Talony upoważniały do odbioru cennych upominków w postaci odzieży, zabawek i słodyczy.</p><br><br>
 </div>
 <div class="archiveItem">
 <i>2001-06-03 14:41:00</i><br><br>
