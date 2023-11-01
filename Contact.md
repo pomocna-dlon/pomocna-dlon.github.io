@@ -20,3 +20,5 @@ Spytka 5 lok. 4
   
 **KONTO:** 12 9096 0004 2001 0000 2264 0001 - Bank Spółdzielczy w Jarosławiu
   
+  
+**facebook:** [https://www.facebook.com/pomocnadlonjaroslaw](https://www.facebook.com/pomocnadlonjaroslaw)
