@@ -22,9 +22,12 @@ def find_files(page_id):
 	with open('pl_pages_files.php', 'r', encoding='utf-8') as pages_files_file:
 		for pages_files_line in pages_files_file:
 			match = re.search(pattern, pages_files_line)
-			if match and os.path.isfile("../img/archive_files/" + match.group(1)):
-				if not match.group(1)[-3:].lower() in ("swf", "doc", "docx", "pdf",):
-					files_list.append(match.group(1))
+			if match:
+				for i in (1, 2,):
+					if os.path.isfile("../img/archive_files/%d/%s"%(i, match.group(1),)):
+						
+						if not match.group(1)[-3:].lower() in ("swf", "doc", "docx", "pdf",):
+							files_list.append("img/archive_files/%d/%s"%(i, match.group(1),))
 	
 	return files_list
 	
@@ -86,7 +89,7 @@ title: Archiwum %d
 				f.write('<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>\n<div class="centerImgsEmpty">\n')
 			
 			for img in data[4]:
-				f.write('<a href="img/archive_files/%s" target="_blank"><img data-src="img/archive_files/%s" /></a><br>\n'%(img, img,))
+				f.write('<a href="%s" target="_blank"><img data-src="%s" /></a><br>\n'%(img, img,))
 			
 			if len(data[4]) > 0:
 				f.write("</div>\n")

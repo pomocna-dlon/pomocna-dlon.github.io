@@ -18,7 +18,7 @@ Wyprawka szkolna<p>Uczniowie szkoły podstawowej nr. 6 w Jarosławiu im. ks. Pio
 <br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/as[1].jpg" target="_blank"><img data-src="img/archive_files/as[1].jpg" /></a><br>
+<a href="img/archive_files/1/as[1].jpg" target="_blank"><img data-src="img/archive_files/1/as[1].jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
