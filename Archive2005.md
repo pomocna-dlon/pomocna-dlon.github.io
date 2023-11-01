@@ -13,7 +13,7 @@ Festyn z okazji &quot;Dnia Dziecka&quot;<p>Festyn z okazji "Dnia Dziecka" w Gimn
 <p>Festyn z okazji "Dnia Dziecka" w Gimnazjum i Szkole Podstawowej w Chłopicach oraz w Gimnazjum i Szkole Podstawowej w Laszkach - rozdanie nieodpłatnie w konkursach 150 paczek ze słodyczami, zabawkami i odzieżą.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/festyn.jpg" target="_blank"><img data-src="img/archive_files/1/festyn.jpg" /></a><br>
+<a href="img/archive_files/01/festyn.jpg" target="_blank"><img data-src="img/archive_files/01/festyn.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -22,10 +22,10 @@ Wizyta na Ukrainie<p>06.Wizyta na Ukrainie - Jaworów - przekazanie polskim dzie
 <p>Wizyta na Ukrainie - Jaworów - przekazanie polskim dzieciom pomocy w postaci darów materialnych i rzeczowych</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/bebenek.jpg" target="_blank"><img data-src="img/archive_files/1/bebenek.jpg" /></a><br>
-<a href="img/archive_files/2/jaworow.jpg" target="_blank"><img data-src="img/archive_files/2/jaworow.jpg" /></a><br>
-<a href="img/archive_files/2/jaworow[1].jpg" target="_blank"><img data-src="img/archive_files/2/jaworow[1].jpg" /></a><br>
-<a href="img/archive_files/2/ukraina.jpg" target="_blank"><img data-src="img/archive_files/2/ukraina.jpg" /></a><br>
+<a href="img/archive_files/01/bebenek.jpg" target="_blank"><img data-src="img/archive_files/01/bebenek.jpg" /></a><br>
+<a href="img/archive_files/02/jaworow.jpg" target="_blank"><img data-src="img/archive_files/02/jaworow.jpg" /></a><br>
+<a href="img/archive_files/02/jaworow[1].jpg" target="_blank"><img data-src="img/archive_files/02/jaworow[1].jpg" /></a><br>
+<a href="img/archive_files/02/ukraina.jpg" target="_blank"><img data-src="img/archive_files/02/ukraina.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -44,7 +44,7 @@ Mikołajki 2005<p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" 
 <p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" w Jarosławiu, dzieci ze Szkoły Podstawowej w Morawsku oraz dla dzieci ze Szkoły Podstawowej Nr 7 w Dolnoleżajsku.</p><p>Rozdanie paczek mikołajowych w innych szkołach podstawowych w Jarosławiu. Rozdano nieodpłatnie 330 paczek ze słodyczami, zabawkami oraz odzieżą.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/05.jpg" target="_blank"><img data-src="img/archive_files/1/05.jpg" /></a><br>
-<a href="img/archive_files/2/morawsko_12.2005.jpg" target="_blank"><img data-src="img/archive_files/2/morawsko_12.2005.jpg" /></a><br>
+<a href="img/archive_files/01/05.jpg" target="_blank"><img data-src="img/archive_files/01/05.jpg" /></a><br>
+<a href="img/archive_files/02/morawsko_12.2005.jpg" target="_blank"><img data-src="img/archive_files/02/morawsko_12.2005.jpg" /></a><br>
 </div>
 </div>

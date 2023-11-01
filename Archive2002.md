@@ -18,8 +18,8 @@ Mikołajki 2002<p>W dniu 5 grudnia 2002 r. odbyła się impreza "Mikołajki 2002
 <p>W dniu 5 grudnia 2002 r. odbyła się impreza <strong>"Mikołajki 2002"</strong> zorganizowana przez Miejski Ośrodek Kultury i Fundację "Pomocna dłoń" kierowaną przez p. Alicję Zając. Imprezę swoją obecnością zaszczycili Burmistrz Janusz Dąbrowski, Radny RMJ Zbigniew Możdżeń, przedstawiciele Starostwa Powiatowego, dyrektorzy i prezesi jarosławskich firm i spółek. Zabawę prowadziła Janina Suchożak. Święty Mikołaj obdarował blisko 300 dzieci. Paczki otrzymały dzieci wytypowane przez wszystkie szkoły podstawowe, dwa gimnazja - nr 2 i nr 3, Stowarzyszenie Rodzin Katolickich przy parafii Bożego Ciała, świetlicę przy parafii NMP Królowej Polski, Specjalny Ośrodek Szkolno-Wychowawczy, Dom Dziecka nr 1, Powiatowe Centrum Pomocy Rodzinie, Stowarzyszenie na Rzecz Osób Niepełnosprawnych koło Jarosław. Wartość jednej paczki to <strong>ok. 100 zł.</strong> W paczkach znalazły się słodycze, zabawki, obuwie i odzież.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/2/Mikolaj_05.12.2002.jpg" target="_blank"><img data-src="img/archive_files/2/Mikolaj_05.12.2002.jpg" /></a><br>
-<a href="img/archive_files/2/mikolaj2002.jpg" target="_blank"><img data-src="img/archive_files/2/mikolaj2002.jpg" /></a><br>
+<a href="img/archive_files/02/mikolaj_05.12.2002.jpg" target="_blank"><img data-src="img/archive_files/02/mikolaj_05.12.2002.jpg" /></a><br>
+<a href="img/archive_files/02/mikolaj2002.jpg" target="_blank"><img data-src="img/archive_files/02/mikolaj2002.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">

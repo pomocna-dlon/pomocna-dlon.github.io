@@ -13,7 +13,7 @@ Festyn z okazji Dnia Dziecka w Morawsku<p>Festyn z okazji Dnia Dziecka w Morawsk
 <p>Festyn z okazji Dnia Dziecka w Morawsku.</p><p>Rozdanie dzieciom z ubogich rodzin paczek ze słodyczami i gadżetów.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/2/morawsko-dzien-dziecka-2006.jpg" target="_blank"><img data-src="img/archive_files/2/morawsko-dzien-dziecka-2006.jpg" /></a><br>
+<a href="img/archive_files/02/morawsko-dzien-dziecka-2006.jpg" target="_blank"><img data-src="img/archive_files/02/morawsko-dzien-dziecka-2006.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -22,12 +22,12 @@ Dzień Dziecka w przedszkolu nr 10<p>Fundacja Pomocna Dłoń zorganizowała i pr
 <p>Fundacja Pomocna Dłoń zorganizowała i przeprowadziła Dzień Dziecka dla uczniów przedszkola numer 10 w Jarosławiu. Dzieci otrzymały prezenty oraz brały udział w grach, konkursach i zabawach.</p><p>Honorowymi goścmi ww. imprezy byli przedstawiciele z miasta SCHÖNEBECK.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/1dzien_dziecka_2002.jpg" target="_blank"><img data-src="img/archive_files/1/1dzien_dziecka_2002.jpg" /></a><br>
-<a href="img/archive_files/1/2[2].jpg" target="_blank"><img data-src="img/archive_files/1/2[2].jpg" /></a><br>
-<a href="img/archive_files/1/dzien_dziecka.jpg" target="_blank"><img data-src="img/archive_files/1/dzien_dziecka.jpg" /></a><br>
-<a href="img/archive_files/1/dzien_dziecka_2002.jpg" target="_blank"><img data-src="img/archive_files/1/dzien_dziecka_2002.jpg" /></a><br>
-<a href="img/archive_files/1/fundacja2[1].jpg" target="_blank"><img data-src="img/archive_files/1/fundacja2[1].jpg" /></a><br>
-<a href="img/archive_files/2/skanuj0001.jpg" target="_blank"><img data-src="img/archive_files/2/skanuj0001.jpg" /></a><br>
+<a href="img/archive_files/01/1dzien_dziecka_2002.jpg" target="_blank"><img data-src="img/archive_files/01/1dzien_dziecka_2002.jpg" /></a><br>
+<a href="img/archive_files/01/2[2].jpg" target="_blank"><img data-src="img/archive_files/01/2[2].jpg" /></a><br>
+<a href="img/archive_files/01/dzien_dziecka.jpg" target="_blank"><img data-src="img/archive_files/01/dzien_dziecka.jpg" /></a><br>
+<a href="img/archive_files/01/dzien_dziecka_2002.jpg" target="_blank"><img data-src="img/archive_files/01/dzien_dziecka_2002.jpg" /></a><br>
+<a href="img/archive_files/01/fundacja2[1].jpg" target="_blank"><img data-src="img/archive_files/01/fundacja2[1].jpg" /></a><br>
+<a href="img/archive_files/02/skanuj0001.jpg" target="_blank"><img data-src="img/archive_files/02/skanuj0001.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -36,9 +36,9 @@ Podpisanie porozumienia z SCHÖNEBECK<p>Podpisane zostało porozumienie o wspó�
 <p>Podpisane zostało porozumienie o współpracę zawartą przez Fundacje Pomocna Dłoń z Przedstawicielami Stowarzyszenia Miasta SCHÖNEBECK. Dzięki umowie możliwa jest wymiana młodzieży obu miast oraz bliższe poznawanie obu kultur.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/1[1].jpg" target="_blank"><img data-src="img/archive_files/1/1[1].jpg" /></a><br>
-<a href="img/archive_files/1/2[1].jpg" target="_blank"><img data-src="img/archive_files/1/2[1].jpg" /></a><br>
-<a href="img/archive_files/1/3[1].jpg" target="_blank"><img data-src="img/archive_files/1/3[1].jpg" /></a><br>
+<a href="img/archive_files/01/1[1].jpg" target="_blank"><img data-src="img/archive_files/01/1[1].jpg" /></a><br>
+<a href="img/archive_files/01/2[1].jpg" target="_blank"><img data-src="img/archive_files/01/2[1].jpg" /></a><br>
+<a href="img/archive_files/01/3[1].jpg" target="_blank"><img data-src="img/archive_files/01/3[1].jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -47,12 +47,12 @@ Fundacja Pomocna Dłoń w SCHÖNEBECK<p>Fundacja Pomocna Dłoń udała sie z wiz
 <p>Fundacja Pomocna Dłoń udała sie z wizyta do SCHÖNEBECKA. Przedstawiciele Fundacji zostali przyjęci przez burmistrza miasta Delef Nietz.  Podjęto rozmowy o współpracy oaz dokonano wymiany gadżetów promujących miasta Jarosław oraz SCHÖNEBECK. Rozmowy śledziła lokalna prasa oraz telewizja.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/01.jpg" target="_blank"><img data-src="img/archive_files/1/01.jpg" /></a><br>
-<a href="img/archive_files/1/02[1].jpg" target="_blank"><img data-src="img/archive_files/1/02[1].jpg" /></a><br>
-<a href="img/archive_files/1/03.jpg" target="_blank"><img data-src="img/archive_files/1/03.jpg" /></a><br>
-<a href="img/archive_files/1/05[1].jpg" target="_blank"><img data-src="img/archive_files/1/05[1].jpg" /></a><br>
-<a href="img/archive_files/1/05[2].jpg" target="_blank"><img data-src="img/archive_files/1/05[2].jpg" /></a><br>
-<a href="img/archive_files/2/skanuj0004.jpg" target="_blank"><img data-src="img/archive_files/2/skanuj0004.jpg" /></a><br>
+<a href="img/archive_files/01/01.jpg" target="_blank"><img data-src="img/archive_files/01/01.jpg" /></a><br>
+<a href="img/archive_files/01/02[1].jpg" target="_blank"><img data-src="img/archive_files/01/02[1].jpg" /></a><br>
+<a href="img/archive_files/01/03.jpg" target="_blank"><img data-src="img/archive_files/01/03.jpg" /></a><br>
+<a href="img/archive_files/01/05[1].jpg" target="_blank"><img data-src="img/archive_files/01/05[1].jpg" /></a><br>
+<a href="img/archive_files/01/05[2].jpg" target="_blank"><img data-src="img/archive_files/01/05[2].jpg" /></a><br>
+<a href="img/archive_files/02/skanuj0004.jpg" target="_blank"><img data-src="img/archive_files/02/skanuj0004.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -66,10 +66,10 @@ Akcja propagandowo uświadamiająca w Pełkiniach<p>Akcja propagandowo uświadam
 <p>Akcja propagandowo uświadamiająca w Gimnazjum w Wólce Pełkińskiej dotycząca problemów młodzieży, włamań, kradzieży, molestowania seksualnego. Akcja zyskała duże uznanie i proszono o przeprowadzanie ww. akcji także w innych szkołach.</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/2/IMG_2578.jpg" target="_blank"><img data-src="img/archive_files/2/IMG_2578.jpg" /></a><br>
-<a href="img/archive_files/1/akcja-prop-uswiadamiajaca-2007.jpg" target="_blank"><img data-src="img/archive_files/1/akcja-prop-uswiadamiajaca-2007.jpg" /></a><br>
-<a href="img/archive_files/2/pelkinie-akcja-prop-2006.jpg" target="_blank"><img data-src="img/archive_files/2/pelkinie-akcja-prop-2006.jpg" /></a><br>
-<a href="img/archive_files/2/policjant.jpg" target="_blank"><img data-src="img/archive_files/2/policjant.jpg" /></a><br>
+<a href="img/archive_files/02/img_2578.jpg" target="_blank"><img data-src="img/archive_files/02/img_2578.jpg" /></a><br>
+<a href="img/archive_files/01/akcja-prop-uswiadamiajaca-2007.jpg" target="_blank"><img data-src="img/archive_files/01/akcja-prop-uswiadamiajaca-2007.jpg" /></a><br>
+<a href="img/archive_files/02/pelkinie-akcja-prop-2006.jpg" target="_blank"><img data-src="img/archive_files/02/pelkinie-akcja-prop-2006.jpg" /></a><br>
+<a href="img/archive_files/02/policjant.jpg" target="_blank"><img data-src="img/archive_files/02/policjant.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -78,6 +78,6 @@ Paczki mikołajkowe<p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcj
 <p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcje mikołajkowe, których efektem było przekazanie prezentów i paczek dla Parafia Chrystusa Króla w Jarosławiu (168 szt.), Dom Dziecka w Jarosławiu (50 szt.), Impreza Pruchniku w MOK (136szt.), Impreza w Pełkiniach(196 szt.), Schola (50 szt.).</p><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/2/mikolaj-pruchnik-2006.jpg" target="_blank"><img data-src="img/archive_files/2/mikolaj-pruchnik-2006.jpg" /></a><br>
+<a href="img/archive_files/02/mikolaj-pruchnik-2006.jpg" target="_blank"><img data-src="img/archive_files/02/mikolaj-pruchnik-2006.jpg" /></a><br>
 </div>
 </div>
