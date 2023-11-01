@@ -76,10 +76,10 @@ title: Archiwum %d
 			f.write("<br><br>\n")
 			
 			if len(data[4]) > 0:
-				f.write('<b>Zdjęcia:</b><br>\n<div class="centerImgs">\n')
+				f.write('<a href="#" class="loadImages" data-images="1">Załaduj Zdjęcia</a><br>\n<div class="centerImgs">\n')
 			
 			for img in data[4]:
-				f.write('<img src="img/archive_files/%s" /><br>\n'%(img,))
+				f.write('<a href="img/archive_files/%s" target="_blank"><img data-src="img/archive_files/%s" /></a><br>\n'%(img, img,))
 			
 			if len(data[4]) > 0:
 				f.write("</div>\n")
