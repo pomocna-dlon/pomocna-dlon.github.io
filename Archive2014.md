@@ -34,8 +34,6 @@ Eliminacje VI edycji Masz Talent<p>Projekt realizowany przez <strong>Jarosławsk
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/15 maja 2014.jpg" /><br>
-<img src="img/archive_files/Karta zgloszeniowa do konkursu (PDF).pdf" /><br>
-<img src="img/archive_files/Karta zgloszeniowa do konkursu.doc" /><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -263,8 +261,8 @@ Alicji zając poetyckie reminiscencje<p>W Miejskie Bibliotece Publicznej w naszy
 </div>
 <div class="archiveItem">
 <i>2014-10-31 10:30:00</i><br><br>
-Wieczór Poezji &quot;Magiczne zwierzenia&quot; <p><span style="color: #141823; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 14px; line-height: 19.3199996948242px;">Wieczór Poezji "Magiczne zwierzenia" 29.10.2014 Centrum Kultury i Promocji w Jarosławiu</span></p><br><br>
-<p><span style="color: #141823; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 14px; line-height: 19.3199996948242px;">Wieczór Poezji "Magiczne zwierzenia" 29.10.2014 Centrum Kultury i Promocji w Jarosławiu</span></p><br><br>
+Wieczór Poezji &quot;Magiczne zwierzenia&quot; <p><span>Wieczór Poezji "Magiczne zwierzenia" 29.10.2014 Centrum Kultury i Promocji w Jarosławiu</span></p><br><br>
+<p><span>Wieczór Poezji "Magiczne zwierzenia" 29.10.2014 Centrum Kultury i Promocji w Jarosławiu</span></p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/20141029.jpg" /><br>

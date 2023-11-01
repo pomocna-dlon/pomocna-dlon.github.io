@@ -45,7 +45,6 @@ Mikołajki 2005<p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" 
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/05.jpg" /><br>
-<img src="img/archive_files/morawsko.jpg" /><br>
 <img src="img/archive_files/morawsko_12.2005.jpg" /><br>
 </div>
 </div>

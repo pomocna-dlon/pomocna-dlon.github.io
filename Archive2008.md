@@ -61,7 +61,7 @@ Mikołajki w Miejskim Osrodku Kultury w Jaroslawiu<p>W tym roku, z inicjatywy Ja
 <div class="archiveItem">
 <i>2008-12-23 13:05:00</i><br><br>
 Jarosławska Wigilia<p>23 grudnia o godz. 11.00 na Placu św. Michała w Jarosławiu Fundacja "Pomocna Dłoń" i Jednostka Wojskowa zorganizowały nieodpłatny wigilijny poczęstunek.</p><br><br>
-<p>23 grudnia o godz. 11.00 na Placu św. Michała w Jarosławiu Fundacja "Pomocna Dłoń" i Jednostka Wojskowa zorganizowały nieodpłatny wigilijny poczęstunek.</p><p>W menu potraw, wydawanych przez żołnierzy Jednostki Wojskowej znalazły się:</p><ul><li>ryba,</li><li>kiełbasa,</li><li>barszcz,</li><li>kawa,</li><li>herbata,</li><li>dodatki.</li></ul><p><strong>Chętnych było wielu.</strong> Dzień poprzedzający spotkanie przy wigilijnym stole był okazją do wyrażenia, iż tego rodzaju akcja, zorganizowana po raz pierwszy w Jarosławiu, ma pozytywny wymiar i będzie kontynuowana w latach następnych.</p><p style="text-align: right;">(Fot. Małgorzata Wielgos)</p><br><br>
+<p>23 grudnia o godz. 11.00 na Placu św. Michała w Jarosławiu Fundacja "Pomocna Dłoń" i Jednostka Wojskowa zorganizowały nieodpłatny wigilijny poczęstunek.</p><p>W menu potraw, wydawanych przez żołnierzy Jednostki Wojskowej znalazły się:</p><ul><li>ryba,</li><li>kiełbasa,</li><li>barszcz,</li><li>kawa,</li><li>herbata,</li><li>dodatki.</li></ul><p><strong>Chętnych było wielu.</strong> Dzień poprzedzający spotkanie przy wigilijnym stole był okazją do wyrażenia, iż tego rodzaju akcja, zorganizowana po raz pierwszy w Jarosławiu, ma pozytywny wymiar i będzie kontynuowana w latach następnych.</p><p>(Fot. Małgorzata Wielgos)</p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/1.jpg" /><br>

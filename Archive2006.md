@@ -22,8 +22,6 @@ Dzień Dziecka w przedszkolu nr 10<p>Fundacja Pomocna Dłoń zorganizowała i pr
 <p>Fundacja Pomocna Dłoń zorganizowała i przeprowadziła Dzień Dziecka dla uczniów przedszkola numer 10 w Jarosławiu. Dzieci otrzymały prezenty oraz brały udział w grach, konkursach i zabawach.</p><p>Honorowymi goścmi ww. imprezy byli przedstawiciele z miasta SCHÖNEBECK.</p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
-<img src="img/archive_files/3[2].jpg" /><br>
-<img src="img/archive_files/1[2].jpg" /><br>
 <img src="img/archive_files/1dzien_dziecka_2002.jpg" /><br>
 <img src="img/archive_files/2[2].jpg" /><br>
 <img src="img/archive_files/dzien_dziecka.jpg" /><br>
