@@ -81,7 +81,7 @@ Rusza III Edycja Programu &quot;Masz Talent&quot;<p>Rusza III Edycja Programu "M
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/2/mikrofon.jpg" target="_blank"><img data-src="img/archive_files/2/mikrofon.jpg" /></a><br>
-<a href="img/archive_files/2/Plakat.jpg" target="_blank"><img data-src="img/archive_files/2/Plakat.jpg" /></a><br>
+<a href="img/archive_files/2/plakat.jpg" target="_blank"><img data-src="img/archive_files/2/plakat.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -252,8 +252,8 @@ HAWŁOWICE: Licytacja konia. Cel: leczenie Sabinki Tomaszewskiej<p>Czwarty rok z
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/1/babis.jpg" target="_blank"><img data-src="img/archive_files/1/babis.jpg" /></a><br>
-<a href="img/archive_files/1/8.JPG" target="_blank"><img data-src="img/archive_files/1/8.JPG" /></a><br>
-<a href="img/archive_files/1/2.JPG" target="_blank"><img data-src="img/archive_files/1/2.JPG" /></a><br>
+<a href="img/archive_files/1/8.jpg" target="_blank"><img data-src="img/archive_files/1/8.jpg" /></a><br>
+<a href="img/archive_files/1/2.jpg" target="_blank"><img data-src="img/archive_files/1/2.jpg" /></a><br>
 <a href="img/archive_files/2/P1020273.JPG" target="_blank"><img data-src="img/archive_files/2/P1020273.JPG" /></a><br>
 <a href="img/archive_files/2/P1020275.JPG" target="_blank"><img data-src="img/archive_files/2/P1020275.JPG" /></a><br>
 <a href="img/archive_files/2/P1020276.JPG" target="_blank"><img data-src="img/archive_files/2/P1020276.JPG" /></a><br>

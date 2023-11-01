@@ -190,30 +190,30 @@ Finał II edycji konkursu &quot;Masz Talent&quot;<p>Dużo się działo na jaros�
 <p>Dużo się działo na jarosławskim Rynku podczas tegorocznej Majówki 2010. W MOK Jarosław odbył się <strong>II finał jarosławskiej edycji konkursu „Masz Talent”,</strong> którego organizatorem jest <strong>Jarosławska Fundacja „Pomocna Dłoń”</strong> przy wsparciu Burmistrza Miasta Jarosławia, CKiP oraz TV Rzeszów.</p><p>Do finału dostało się 12 uczestników konkursu. Program prowadziła prezes fundacji Alicja Zając otwierając imprezę cyt. <strong>„Każdy rodzi się z talentem obdarowanym przez Boga, ale nie każdy potrafi go z siebie wydobyć i umiejętnie wykorzystać”. </strong></p><p>Przewodniczącym Jury był dr. muzyki Jacek Ścibor, który stwierdził, że poziom imprezy tegorocznego konkursu był bardzo wysoki. Sala była zapełniona po brzegi. Finaliści wystąpili w różnych kategoriach artystycznych.</p><p>Konkurs wygrała zdobywając laptopa ufundowanego przez fundację <strong>Karolina Węgrzyn</strong> z Zespołu Szkól Plastycznych w Jarosławiu.</p><p>Nagrodę publiczności w postaci aparatu cyfrowego ufundowanego przez Biuro Turystyki „Polonez” Aneta Fila wygrał <strong>Kamil Inglot </strong>(Gimnazjum nr 5) tańcem „Elektro Boogi” .</p><p>Trzy wyróżnienia zdobyli:</p><ul><li><strong>Jakub Maga</strong> (śpiew) Zespól Szkól Drogowo-Geodyzyjnych i Ogólnokształcących w Jarosławiu, </li><li><strong>Karol Argasiński</strong> (śpiew) Liceum Ogólnokształcące im. Mikołaja Kopernika w Jarosławiu, </li><li><strong>Monika Czarny</strong> (śpiew) Zespól Szkół im. A. Mickiewicza w Pawłosiowie </li><li>oraz nagroda pieniężna przyznana przez - posła Mieczysława Golbę (równocześnie członka Jury konkursu) którą otrzymał <strong>Krzysztof Szydłowski</strong> (GP nr 5) w kategorii „Beat Box” . </li></ul><p>Gościnnie wystąpili: dr muzyki Jacek Ścibor, zespól „Amiti” z Arkadiuszem Kłusowskim i Szkoła Tańca ”Takt” - Marzeny Przytockiej. <br><strong>Skład Jury:</strong></p><ol><li>Dr Sztuk Wokalnych Jacek Ścibor - Przewodniczący</li><li>Mieczysław Golba - Poseł na Sejm RP </li><li>Anna Arciszewska - TV Rzeszów</li><li>Joanna Mordarska – Naczelnik Wydziału Kultury Turystyki i Promocji Miasta</li><li>Arkadiusz Kłusowski - wokalista zespołu „Amiti”</li></ol><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/1/14.JPG" target="_blank"><img data-src="img/archive_files/1/14.JPG" /></a><br>
-<a href="img/archive_files/1/01.JPG" target="_blank"><img data-src="img/archive_files/1/01.JPG" /></a><br>
+<a href="img/archive_files/1/14.jpg" target="_blank"><img data-src="img/archive_files/1/14.jpg" /></a><br>
+<a href="img/archive_files/1/01.jpg" target="_blank"><img data-src="img/archive_files/1/01.jpg" /></a><br>
 <a href="img/archive_files/1/001-Karolina.JPG" target="_blank"><img data-src="img/archive_files/1/001-Karolina.JPG" /></a><br>
-<a href="img/archive_files/1/09.JPG" target="_blank"><img data-src="img/archive_files/1/09.JPG" /></a><br>
+<a href="img/archive_files/1/09.jpg" target="_blank"><img data-src="img/archive_files/1/09.jpg" /></a><br>
 <a href="img/archive_files/1/H-01.JPG" target="_blank"><img data-src="img/archive_files/1/H-01.JPG" /></a><br>
 <a href="img/archive_files/1/H-01a.JPG" target="_blank"><img data-src="img/archive_files/1/H-01a.JPG" /></a><br>
-<a href="img/archive_files/1/08.JPG" target="_blank"><img data-src="img/archive_files/1/08.JPG" /></a><br>
-<a href="img/archive_files/1/15.JPG" target="_blank"><img data-src="img/archive_files/1/15.JPG" /></a><br>
+<a href="img/archive_files/1/08.jpg" target="_blank"><img data-src="img/archive_files/1/08.jpg" /></a><br>
+<a href="img/archive_files/1/15.jpg" target="_blank"><img data-src="img/archive_files/1/15.jpg" /></a><br>
 <a href="img/archive_files/1/15a.JPG" target="_blank"><img data-src="img/archive_files/1/15a.JPG" /></a><br>
 <a href="img/archive_files/1/15b.JPG" target="_blank"><img data-src="img/archive_files/1/15b.JPG" /></a><br>
-<a href="img/archive_files/1/02.JPG" target="_blank"><img data-src="img/archive_files/1/02.JPG" /></a><br>
-<a href="img/archive_files/1/03.JPG" target="_blank"><img data-src="img/archive_files/1/03.JPG" /></a><br>
+<a href="img/archive_files/1/02.jpg" target="_blank"><img data-src="img/archive_files/1/02.jpg" /></a><br>
+<a href="img/archive_files/1/03.jpg" target="_blank"><img data-src="img/archive_files/1/03.jpg" /></a><br>
 <a href="img/archive_files/1/04a.JPG" target="_blank"><img data-src="img/archive_files/1/04a.JPG" /></a><br>
 <a href="img/archive_files/1/04b.JPG" target="_blank"><img data-src="img/archive_files/1/04b.JPG" /></a><br>
-<a href="img/archive_files/1/05.JPG" target="_blank"><img data-src="img/archive_files/1/05.JPG" /></a><br>
-<a href="img/archive_files/1/06.JPG" target="_blank"><img data-src="img/archive_files/1/06.JPG" /></a><br>
-<a href="img/archive_files/1/07.JPG" target="_blank"><img data-src="img/archive_files/1/07.JPG" /></a><br>
-<a href="img/archive_files/1/10.JPG" target="_blank"><img data-src="img/archive_files/1/10.JPG" /></a><br>
-<a href="img/archive_files/1/11.JPG" target="_blank"><img data-src="img/archive_files/1/11.JPG" /></a><br>
+<a href="img/archive_files/1/05.jpg" target="_blank"><img data-src="img/archive_files/1/05.jpg" /></a><br>
+<a href="img/archive_files/1/06.jpg" target="_blank"><img data-src="img/archive_files/1/06.jpg" /></a><br>
+<a href="img/archive_files/1/07.jpg" target="_blank"><img data-src="img/archive_files/1/07.jpg" /></a><br>
+<a href="img/archive_files/1/10.jpg" target="_blank"><img data-src="img/archive_files/1/10.jpg" /></a><br>
+<a href="img/archive_files/1/11.jpg" target="_blank"><img data-src="img/archive_files/1/11.jpg" /></a><br>
 <a href="img/archive_files/1/11a.JPG" target="_blank"><img data-src="img/archive_files/1/11a.JPG" /></a><br>
 <a href="img/archive_files/1/12a.JPG" target="_blank"><img data-src="img/archive_files/1/12a.JPG" /></a><br>
-<a href="img/archive_files/1/12.JPG" target="_blank"><img data-src="img/archive_files/1/12.JPG" /></a><br>
-<a href="img/archive_files/1/13.JPG" target="_blank"><img data-src="img/archive_files/1/13.JPG" /></a><br>
-<a href="img/archive_files/1/16.JPG" target="_blank"><img data-src="img/archive_files/1/16.JPG" /></a><br>
+<a href="img/archive_files/1/12.jpg" target="_blank"><img data-src="img/archive_files/1/12.jpg" /></a><br>
+<a href="img/archive_files/1/13.jpg" target="_blank"><img data-src="img/archive_files/1/13.jpg" /></a><br>
+<a href="img/archive_files/1/16.jpg" target="_blank"><img data-src="img/archive_files/1/16.jpg" /></a><br>
 <a href="img/archive_files/1/H-02.JPG" target="_blank"><img data-src="img/archive_files/1/H-02.JPG" /></a><br>
 <a href="img/archive_files/1/H-02d.JPG" target="_blank"><img data-src="img/archive_files/1/H-02d.JPG" /></a><br>
 <a href="img/archive_files/1/H-02e.JPG" target="_blank"><img data-src="img/archive_files/1/H-02e.JPG" /></a><br>

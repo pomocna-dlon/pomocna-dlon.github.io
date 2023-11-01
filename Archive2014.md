@@ -42,27 +42,27 @@ Eliminacje VI edycji Masz Talent - wyniki<p>15 maja w Sali Lustrzanej miały mie
 <p><strong>15 maja w Sali Lustrzanej </strong>miały miejsce zmagania uczestników <strong>VI edycji programu Masz Talent</strong>. Rywalizacja wyłoniła siedemnastu młodych finalistów.<br><strong>"Masz Talent"</strong> to konkurs organizowany przez Jarosławska Fundację „Pomocna Dłoń” przy współpracy z Centrum Kultury i Promocji w Jarosławiu. Od 2009 roku biorą w nim udział młodzi, utalentowani mieszkańcy Jarosławia i okolic. Z czasem zmagania przybrały regionalny, a nawet wojewódzki charakter.<br>Chęć udziału w tegorocznej rywalizacji zgłosiło 30 osób. Zachwycili wszyscy, niestety jury w składzie: <strong>Alicja Zając</strong>, <strong>Maciej Inglot</strong>, <strong>Magdalena Rożek</strong>, <strong>Jolanta Szewczyk</strong>, <strong>Agnieszka Horodejczuk</strong>, zdecydowało, że do finału przejdzie 14 najlepszych osób, w tym zespół dwu- i trzyosobowy:</p><ol><li><strong>Kinga Bobowicz</strong> – Gimnazjum w Pawłosiowie, 16 lat</li><li><strong>Katarzyna Czarny</strong> – Zespół Szkół w Pawłosiowie, 15 lat</li><li><strong>Wiktoria Dejnak</strong> – Świetlica Przy Parafii Bożego Ciała w Jarosławiu, 10 lat</li><li>Duet <strong>Adrian Duczyński</strong>, <strong>Piotr Chludziński</strong> – Zespół Szkół Plastycznych w Jarosławiu, Zespół Szkół Salezjańskich w Przemyślu, 17 i 18 lat</li><li>Trzyosobowy zespół <strong>Street Bonus</strong> – Zespół Szkół Licealnych i Technicznych w Jarosławiu, Zespół Szkół Mechanicznych w Jarosławiu, wiek 17 i 18 lat</li><li><strong>Krzysztof Kądziołka</strong> – uczestnik otrzymał zieloną kartę od publiczności</li><li><strong>Dawid Krzeptoń</strong> – Zespół Szkół w Laszkach, 16 lat</li><li><strong>Weronika Makowska</strong> – Publiczne Gimnazjum nr 2 w Jarosławiu, 16 lat</li><li><strong>Natalia Michalik</strong> – Publiczne Gimnazjum nr2 w Jarosławiu, 14 lat</li><li><strong>Aldona Mikoś</strong> – I LO im. M. Kopernika w Jarosławiu, 18 lat</li><li><strong>Jakub Moskwa</strong> – Zespół Szkół Technicznych i Ogólnokształcących w Jarosławiu, 19 lat</li><li><strong>Jakub Preisner</strong> – Publiczne Gimnazjum nr 2 w Jarosławiu, 15 lat</li><li><strong>Paweł Surdej</strong> – Publiczne Gimnazjum nr 3 w Jarosławiu, 16 lat</li><li><strong>Ewa Trojniak</strong> – Zespół Szkół Technicznych i Ogólnokształcących w Jarosławiu, 17 lat</li></ol><p><em>Źródło: ckip.jaroslaw.pl</em></p><ol> </ol><br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (01).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (01).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (02).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (02).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (04).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (04).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (05).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (05).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (06).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (06).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (07).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (07).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (08).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (08).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (09).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (09).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (10).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (10).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (11).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (11).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (12).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (12).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (13).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (13).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (14).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (14).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (15).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (15).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (16).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (16).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (17).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (17).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (18).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (18).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (19).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (19).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (20).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (20).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (21).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (21).jpg" /></a><br>
-<a href="img/archive_files/2/masz-talent-2013-eliminacje (22).jpg" target="_blank"><img data-src="img/archive_files/2/masz-talent-2013-eliminacje (22).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (01).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (01).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (02).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (02).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (04).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (04).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (05).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (05).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (06).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (06).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (07).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (07).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (08).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (08).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (09).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (09).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (10).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (10).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (11).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (11).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (12).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (12).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (13).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (13).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (14).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (14).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (15).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (15).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (16).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (16).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (17).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (17).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (18).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (18).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (19).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (19).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (20).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (20).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (21).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (21).jpg" /></a><br>
+<a href="img/archive_files/2/Masz-Talent-2013-eliminacje (22).jpg" target="_blank"><img data-src="img/archive_files/2/Masz-Talent-2013-eliminacje (22).jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
