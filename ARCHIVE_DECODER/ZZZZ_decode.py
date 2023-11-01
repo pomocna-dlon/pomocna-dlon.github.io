@@ -78,7 +78,7 @@ title: Archiwum %d
 			f.write("<br><br>\n")
 			
 			if len(data[4]) > 0:
-				f.write('<a href="#" class="loadImages">Załaduj Zdjęcia</a><br>\n<div class="centerImgs">\n')
+				f.write('<a href="#" class="loadImages">Załaduj Zdjęcia</a><br>\n<div class="centerImgsEmpty">\n')
 			
 			for img in data[4]:
 				f.write('<a href="img/archive_files/%s" target="_blank"><img data-src="img/archive_files/%s" /></a><br>\n'%(img, img,))

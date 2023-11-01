@@ -12,7 +12,7 @@ Dary dla dzieci potrzebujących<p>W niedzielę 2 grudnia 2001 r. w sali widowisk
 Nomicnacja prezes Alicji Zając do konkursu o tytuł Społecznika Roku<p>Prezes Fundacji Pomocna Dłoń w Jarosławiu pani Alicja Zając w dowód uznania za szeroką działalność charytatywną została nominowana do konkursu o tytuł Społecznika Roku. Konkurs został zorganizowany przez Fundację Pomoc Społeczna SOS z Warszawy. Prezes Fundacji Jacek Kuroń.</p><br><br>
 <br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
-<div class="centerImgs">
+<div class="centerImgsEmpty">
 <a href="img/archive_files/spolecznik_roku.jpg" target="_blank"><img data-src="img/archive_files/spolecznik_roku.jpg" /></a><br>
 </div>
 </div>
@@ -21,7 +21,7 @@ Nomicnacja prezes Alicji Zając do konkursu o tytuł Społecznika Roku<p>Prezes 
 Akcja charytatywna<p>Akcja charytatywna zorganizowana dla biednych rodzin wytypowanych przez Proboszcza z Kościoła Refermatów. Fundacja przekazała żywność i odzież.</p><br><br>
 <br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
-<div class="centerImgs">
+<div class="centerImgsEmpty">
 <a href="img/archive_files/skanuj0002.jpg" target="_blank"><img data-src="img/archive_files/skanuj0002.jpg" /></a><br>
 <a href="img/archive_files/skanuj0003.jpg" target="_blank"><img data-src="img/archive_files/skanuj0003.jpg" /></a><br>
 </div>
@@ -36,7 +36,7 @@ Talony na Dzień Dziecka<p>Dzień Dziecka pod patronatem Senatora RP Andrzeja Ta
 Dzień dziecka<p>Tegorocznym obchodom Dnia Dziecka patronowali: Senator RP Andrzej T. Mazurkiewicz, Burmistrz Miasta Jan Gilowski oraz Fundacja "Pomocna dłoń" reprezentowana przez Prezes Alicję Zając.</p><br><br>
 <br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
-<div class="centerImgs">
+<div class="centerImgsEmpty">
 <a href="img/archive_files/dzien_dziecka_2002[1].jpg" target="_blank"><img data-src="img/archive_files/dzien_dziecka_2002[1].jpg" /></a><br>
 <a href="img/archive_files/dzien_dziecka[1].jpg" target="_blank"><img data-src="img/archive_files/dzien_dziecka[1].jpg" /></a><br>
 <a href="img/archive_files/1dzien_dziecka_2002[1].jpg" target="_blank"><img data-src="img/archive_files/1dzien_dziecka_2002[1].jpg" /></a><br>
@@ -48,7 +48,7 @@ Dzień dziecka<p>Tegorocznym obchodom Dnia Dziecka patronowali: Senator RP Andrz
 Dary dla powodzian<p>Dary dla powodzian dostarczono do Starostwa Powiatowego w Sandomierzu. Fundacja przekazała paszę, artykuły szkolne, słodycze, zabawki itp.</p><br><br>
 <br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
-<div class="centerImgs">
+<div class="centerImgsEmpty">
 <a href="img/archive_files/dary-dla-powodzian.jpg" target="_blank"><img data-src="img/archive_files/dary-dla-powodzian.jpg" /></a><br>
 <a href="img/archive_files/dary_dla_powodzian.jpg" target="_blank"><img data-src="img/archive_files/dary_dla_powodzian.jpg" /></a><br>
 </div>

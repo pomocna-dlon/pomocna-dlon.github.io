@@ -17,7 +17,7 @@ Dofinansowanie harcerzy<p>Fundacja dofinansowała zlot harcerzy w Gnieznie.</p><
 Wyprawka szkolna<p>Uczniowie szkoły podstawowej nr. 6 w Jarosławiu im. ks. Piotra Skargi otrzymali wyprawki szkolne składające się z plecaków z wyposażeniem.</p><br><br>
 <br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
-<div class="centerImgs">
+<div class="centerImgsEmpty">
 <a href="img/archive_files/as[1].jpg" target="_blank"><img data-src="img/archive_files/as[1].jpg" /></a><br>
 </div>
 </div>
