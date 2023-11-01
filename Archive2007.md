@@ -11,7 +11,7 @@ Szansa na Sukces <p>Na jarosławskim rynku o godz. 17. rozpoczął się program 
 <i>2007-12-06 13:23:00</i><br><br>
 Mikołajki 2007<p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcje mikołajkowe, których efektem było przekazanie prezentów i paczek dla biednych dzieci z Domu Dziecka w Jarosławiu, Schola.</p><br><br>
 <p>Fundacja Pomocna Dłoń w Jarosławiu przeprowadziła akcje mikołajkowe, których efektem było przekazanie prezentów i paczek dla biednych dzieci z Domu Dziecka w Jarosławiu, Schola.</p><p>W Miejskim Ośrodku Kultury w Radymnie zorganizowano imprezę artystyczna pod nazwa Uśmiech Dziecka. Podczas imprezy przeprowadzono Szanse na Sukces.</p><p>Zwieńczeniem imprezy było przekazanie prezentów dla biednych dzieci i uczestników Szansy na sukces. Podobne akcje i imprezy zostały przeprowadzone na terenie powiatu.</p><br><br>
-<a href="#" class="loadImages" data-images="1">Załaduj Zdjęcia</a><br>
+<a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgs">
 <a href="img/archive_files/2007-mikolaj.jpg" target="_blank"><img data-src="img/archive_files/2007-mikolaj.jpg" /></a><br>
 <a href="img/archive_files/DSC_0003.JPG" target="_blank"><img data-src="img/archive_files/DSC_0003.JPG" /></a><br>
