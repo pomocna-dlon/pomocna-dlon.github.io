@@ -78,7 +78,7 @@ Eliminacje VI edycji Masz Talent - wyniki<p>15 maja w Sali Lustrzanej miały mie
 <div class="archiveItem">
 <i>2014-06-24 12:40:00</i><br><br>
 Promocja książki<p>W dniu 14.06.2014 podczas Imienin Jana Kochanowskiego - odbyła się promocja książki <strong>"Magiczne Zwierzenia"</strong> autorstwa Alicji Zając. Wielkie podziękowania dla Wydawnictwa Literackiego Białe Pióro i dla Pana Olgierda Łukaszewicza, za to że w magicznym uniesieniu promują książkę w Warszawie.  Dziękujemy za zakup książek w tak dużym nakładzie.</p><br><br>
-<p>W dniu 14.06.2014 podczas Imienin Jana Kochanowskiego - odbyła się promocja książki "Magiczne Zwierzenia" autorstwa Alicji Zając.</p><p><br />Wielkie podziękowania dla Wydawnictwa Literackiego Białe Pióro i dla Pana Olgierda Łukaszewicza, za to że w magicznym uniesieniu promują książkę w Warszawie.</p><p><br />Dziękujemy za zakup książek podczas pobytu na mieninach Jana Kochanowskiego.</p><p><object width="560" height="315"><param name="movie" value="//www.youtube.com/v/ySaDrNH2aK8?hl=pl_PL&amp;version=3" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="560" height="315" src="http://www.youtube.com/v/ySaDrNH2aK8?hl=pl_PL&amp;version=3" allowscriptaccess="always" allowfullscreen="true"></embed></object></p><br><br>
+<p>W dniu 14.06.2014 podczas Imienin Jana Kochanowskiego - odbyła się promocja książki "Magiczne Zwierzenia" autorstwa Alicji Zając.</p><p><br />Wielkie podziękowania dla Wydawnictwa Literackiego Białe Pióro i dla Pana Olgierda Łukaszewicza, za to że w magicznym uniesieniu promują książkę w Warszawie.</p><p><br />Dziękujemy za zakup książek podczas pobytu na mieninach Jana Kochanowskiego.</p><p></p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/01[3].jpg" /><br>
@@ -191,7 +191,7 @@ VI edycja  „Masz talent” oraz gość specjalny Juan Carlos Can z zespołem E
 <div class="archiveItem">
 <i>2014-09-09 08:04:00</i><br><br>
 Wywiad udzielony przez Alicję Zając w Radiu Rzeszów<p>Zapraszamy do wysłuchania wywiadu, którego udzieliła Alicja Zając, autorka tomiku poezji "Magiczne zwierzeia"</p><br><br>
-<p>Zapraszamy do wysłuchania wywiadu, którego udzieliła Alicja Zając, autorka tomiku poezji "Magiczne zwierzeia"</p><p><object width="560" height="315"><param name="movie" value="//www.youtube.com/v/UicwNdb2uLM?hl=pl_PL&amp;version=3" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="560" height="315" src="http://www.youtube.com/v/UicwNdb2uLM?hl=pl_PL&amp;version=3" allowscriptaccess="always" allowfullscreen="true"></embed></object></p><br><br>
+<p>Zapraszamy do wysłuchania wywiadu, którego udzieliła Alicja Zając, autorka tomiku poezji "Magiczne zwierzeia"</p><p></p><br><br>
 <b>Zdjęcia:</b><br>
 <div class="centerImgs">
 <img src="img/archive_files/radio-rzeszow.jpg" /><br>

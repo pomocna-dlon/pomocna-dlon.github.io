@@ -28,8 +28,10 @@ def find_files(page_id):
 	
 	return files_list
 	
-def remove_style(s):
-	return re.sub(r'\s*style=(?:"[^"]*"|\'[^\']*\')', '', s)
+def remove_unwanted_stuff(s):
+	s = re.sub(r'\s*style=(?:"[^"]*"|\'[^\']*\')', '', s)
+	s = re.sub(r'<object[^>]*>.*?</object>', '', s)
+	return s
 
 all_data = []
 
@@ -68,9 +70,9 @@ title: Archiwum %d
 			f.write('<div class="archiveItem">\n<i>')
 			f.write(str(data[1]))
 			f.write("</i><br><br>\n")
-			f.write(remove_style(data[2]))
+			f.write(remove_unwanted_stuff(data[2]))
 			f.write("<br><br>\n")
-			f.write(remove_style(data[3]))
+			f.write(remove_unwanted_stuff(data[3]))
 			f.write("<br><br>\n")
 			
 			if len(data[4]) > 0:
