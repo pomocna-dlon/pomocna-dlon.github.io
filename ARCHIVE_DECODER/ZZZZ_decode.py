@@ -1,5 +1,6 @@
 import re
 import datetime
+import os
 
 def find_ext(page_id):
 	pattern = r'^\d+\$(.*)\$\$\$\$\$\$\$\d+\$'
@@ -21,10 +22,23 @@ def find_files(page_id):
 	with open('pl_pages_files.php', 'r', encoding='utf-8') as pages_files_file:
 		for pages_files_line in pages_files_file:
 			match = re.search(pattern, pages_files_line)
-			if match:
-				files_list.append(match.group(1))
+			if match and os.path.isfile("../img/archive_files/" + match.group(1)):
+				if not match.group(1)[-3:].lower() in ("swf", "doc", "docx", "pdf",):
+					files_list.append(match.group(1))
 	
 	return files_list
+	
+def remove_unwanted_stuff(s):
+	s = re.sub(r'\s*style=(?:"[^"]*"|\'[^\']*\')', '', s)
+	s = re.sub(r'<object[^>]*>.*?</object>', '', s)
+	s = re.sub(r'<p>\s*</p>', '', s)
+	s = re.sub(r'<p>(<br\s*/?>\s*)+</p>', '', s)
+	s = re.sub(r'(<br\s*/?>\s*)+', '<br>', s, flags=re.IGNORECASE)
+	s = s.replace("<span>", '')
+	s = s.replace("</span>", '')
+	s = re.sub(r'<script[^>]*>.*?</script>', '', s)
+	
+	return s
 
 all_data = []
 
@@ -62,17 +76,17 @@ title: Archiwum %d
 		for data in all_data_by_year[year]:
 			f.write('<div class="archiveItem">\n<i>')
 			f.write(str(data[1]))
-			f.write("</i><br><br>\n")
-			f.write(data[2])
-			f.write("<br><br>\n")
-			f.write(data[3])
-			f.write("<br><br>\n")
+			f.write("</i><br>\n")
+			f.write(remove_unwanted_stuff(data[2]))
+			f.write("<br>\n")
+			f.write(remove_unwanted_stuff(data[3]))
+			f.write("<br>\n")
 			
 			if len(data[4]) > 0:
-				f.write('<b>Zdjęcia:</b><br>\n<div class="centerImgs">\n')
+				f.write('<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>\n<div class="centerImgsEmpty">\n')
 			
 			for img in data[4]:
-				f.write('<img src="img/archive_files/%s" /><br>\n'%(img,))
+				f.write('<a href="img/archive_files/%s" target="_blank"><img data-src="img/archive_files/%s" /></a><br>\n'%(img, img,))
 			
 			if len(data[4]) > 0:
 				f.write("</div>\n")
