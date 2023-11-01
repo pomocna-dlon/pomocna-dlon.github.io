@@ -32,10 +32,11 @@ def remove_unwanted_stuff(s):
 	s = re.sub(r'\s*style=(?:"[^"]*"|\'[^\']*\')', '', s)
 	s = re.sub(r'<object[^>]*>.*?</object>', '', s)
 	s = re.sub(r'<p>\s*</p>', '', s)
-	#s = re.sub(r'<p>(<br\s*/?>\s*)+</p>', '', s)
+	s = re.sub(r'<p>(<br\s*/?>\s*)+</p>', '', s)
 	s = re.sub(r'(<br\s*/?>\s*)+', '<br>', s, flags=re.IGNORECASE)
 	s = s.replace("<span>", '')
 	s = s.replace("</span>", '')
+	s = re.sub(r'<script[^>]*>.*?</script>', '', s)
 	
 	return s
 

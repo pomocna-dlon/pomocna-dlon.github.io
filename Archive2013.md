@@ -14,7 +14,7 @@ Koncert charytatywny zespołu WEEKEND!! Zapraszamy!<p>Zapraszamy na koncert char
 <div class="archiveItem">
 <i>2013-02-05 12:44:00</i><br><br>
 Wywiad w Radiu Rzeszów<p>Zapraszamy do przesłuchania wywiadu przeprowadzonego z Prezes Fundacji Pomocna Dłoń - Alicją Zając. Rozmowę przeprowadziła Zofia Stopińska - dziennikarka Radia Rzeszów.</p><br><br>
-<p>Zapraszamy do przesłuchania wywiadu przeprowadzonego z Prezes Fundacji Pomocna Dłoń - Alicją Zając. Rozmowę przeprowadziła Zofia Stopińska - dziennikarka Radia Rzeszów.</p><p><script src="http://www.wrzuta.pl/embed_audio.js?key=2z1X6nWgKFw&amp;login=pomocnadlon&amp;width=450&amp;bg=ffffff" type="text/javascript"></script></p><br><br>
+<p>Zapraszamy do przesłuchania wywiadu przeprowadzonego z Prezes Fundacji Pomocna Dłoń - Alicją Zając. Rozmowę przeprowadziła Zofia Stopińska - dziennikarka Radia Rzeszów.</p><p></p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/radiorzeszow.jpg" target="_blank"><img data-src="img/archive_files/radiorzeszow.jpg" /></a><br>

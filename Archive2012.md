@@ -5,7 +5,7 @@ title: Archiwum 2012
 <div class="archiveItem">
 <i>2012-01-04 14:45:00</i><br><br>
 Program &quot;Masz talent&quot; oraz Mikołajki w Chłopicach<p>W dniu 14.12.2011r. Jarosławska fundacja "Pomocna dłoń" zorganizowała w  Chłopicach  Świąteczny Koncert charytatywny, połączony z programem "Masz  Talent".</p><br><br>
-<p>W dniu 14.12.2011r. Jarosławska fundacja "Pomocna dłoń" zorganizowała w Chłopicach  Świąteczny Koncert charytatywny, połączony z programem "Masz Talent".</p><p>W programie wystąpiły dzieci ze Szkół z Gminy Chłopice.</p><p><br>I - miejsce <strong>Kinga Stasiła</strong> kat. śpiew<br>II - miejsce <strong>Dawid  Majcher</strong> kat. żonglerka <br>III - miejsce <strong>Adrian Brodowicz</strong> kat. taniec</p><p><br>Gościnnie wystąpili Finaliści programu "Masz talent" - <strong>Monika Czarny</strong> i <strong>Daniel Lipiec</strong>, którzy swoim występem oczarowali publiczność.<br>Na koniec pojawił się Mikołaj - rozdał paczki dla dzieci z Gminy Chłopice przygotowane przez Fundację.</p><p><script src="http://www.wrzuta.pl/embed_video.js?key=1fUlkRVwGAS&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script></p><p><br><script src="http://www.wrzuta.pl/embed_video.js?key=06KWTnpwXno&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script></p><p><br></p><br><br>
+<p>W dniu 14.12.2011r. Jarosławska fundacja "Pomocna dłoń" zorganizowała w Chłopicach  Świąteczny Koncert charytatywny, połączony z programem "Masz Talent".</p><p>W programie wystąpiły dzieci ze Szkół z Gminy Chłopice.</p><p><br>I - miejsce <strong>Kinga Stasiła</strong> kat. śpiew<br>II - miejsce <strong>Dawid  Majcher</strong> kat. żonglerka <br>III - miejsce <strong>Adrian Brodowicz</strong> kat. taniec</p><p><br>Gościnnie wystąpili Finaliści programu "Masz talent" - <strong>Monika Czarny</strong> i <strong>Daniel Lipiec</strong>, którzy swoim występem oczarowali publiczność.<br>Na koniec pojawił się Mikołaj - rozdał paczki dla dzieci z Gminy Chłopice przygotowane przez Fundację.</p><p></p><p><br></p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/DSC_3021.JPG" target="_blank"><img data-src="img/archive_files/DSC_3021.JPG" /></a><br>
@@ -30,7 +30,7 @@ Program &quot;Masz talent&quot; oraz Mikołajki w Chłopicach<p>W dniu 14.12.201
 <div class="archiveItem">
 <i>2012-02-19 12:24:00</i><br><br>
 Audycja &quot;Podkarpackie-Pozarządowe&quot; w Polskim Radiu Rzeszów z Prezes Alicją Zając<p>Zapraszamy do posłuchania fragmentu audycji "Podkarpackie-Pozarządowe" w Polskim Radiu Rzeszów z Prezes Fundacji Pomocna Dłoń Alicją Zając. W/w audycja dotycząca koncertu Dżem, została wyemitowana 16.02.2012. Adycję prowadził Wojciech Wójcik.</p><br><br>
-<p>Zapraszamy do posłuchania fragmentu audycji "Podkarpackie-Pozarządowe" w Polskim Radiu Rzeszów z Prezes Fundacji Pomocna Dłoń Alicją Zając.<br>W/w audycja dotycząca koncertu Dżem, została wyemitowana 16.02.2012.<br>Adycję prowadził Wojciech Wójcik.</p><p><script src="http://www.wrzuta.pl/embed_audio.js?key=81Hkwg5ovFc&amp;login=pomocnadlon&amp;width=450&amp;bg=ffffff" type="text/javascript"></script></p><br><br>
+<p>Zapraszamy do posłuchania fragmentu audycji "Podkarpackie-Pozarządowe" w Polskim Radiu Rzeszów z Prezes Fundacji Pomocna Dłoń Alicją Zając.<br>W/w audycja dotycząca koncertu Dżem, została wyemitowana 16.02.2012.<br>Adycję prowadził Wojciech Wójcik.</p><p></p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/00-radio-podkarpackie.jpg" target="_blank"><img data-src="img/archive_files/00-radio-podkarpackie.jpg" /></a><br>
@@ -88,7 +88,7 @@ Koncert charytatywny Dżem - zdjęcia!! <p>Zapraszmay do obejrzenia fotogalerii 
 <div class="archiveItem">
 <i>2012-04-02 09:30:00</i><br><br>
 Koncert charytatywny Dżem -  FILMY<p>Zapraszamy do obejrzenia filmów z koncertu charytatywnego Dżem, który odbył się 27 lutego w hali sportowej MOSiR w Jarosławiu.<br>Oprócz nagrań zespołu, dostępne również występy finalisów programu "MASZ TALENT".</p><br><br>
-<p>Zapraszamy do obejrzenia filmów z koncertu charytatywnego Dżem, który odbył się 27 lutego w hali sportowej MOSiR w Jarosławiu.<br>Oprócz nagrań zespołu, dostępne również występy finalisów programu "MASZ TALENT".</p><p><script src="http://www.wrzuta.pl/embed_video.js?key=07hAcQWi1H8&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script></p><p><br></p><br><br>
+<p>Zapraszamy do obejrzenia filmów z koncertu charytatywnego Dżem, który odbył się 27 lutego w hali sportowej MOSiR w Jarosławiu.<br>Oprócz nagrań zespołu, dostępne również występy finalisów programu "MASZ TALENT".</p><p></p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/Marcin-Mitus (9)[1].jpg" target="_blank"><img data-src="img/archive_files/Marcin-Mitus (9)[1].jpg" /></a><br>

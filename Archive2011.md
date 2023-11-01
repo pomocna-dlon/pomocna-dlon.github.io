@@ -193,7 +193,7 @@ Eliminacje III edycji Programu „Masz Talent”<p>Eliminacje III edycji Program
 <div class="archiveItem">
 <i>2011-04-15 22:25:00</i><br><br>
 Modern Talking Reloaded   Koncert charytatywny - filmy<p>Zapraszmy do obejrzenia filmów nagranych podczas koncertu charytatywnego zespołu Modern Talking Reloaded!!</p><br><br>
-<p>Zapraszmy do obejrzenia filmów nagranych podczas koncertu charytatywnego zespołu Modern Talking Reloaded oraz finalistów "Masz talent".</p><p><br></p><p><a href="http://vimeo.com/23469803">Koncert Modern Talking Reloaded - Organizator Jarosławska Fundacja Pomocna Dłoń cz. 6</a> from <a href="http://vimeo.com/user6801281">Pomocna Dlon</a> on <a href="http://vimeo.com">Vimeo</a>.</p><p><br><script src="http://www.wrzuta.pl/embed_video.js?key=9f6cVwmpwfc&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script></p><p><br><script src="http://www.wrzuta.pl/embed_video.js?key=67IpgWJ7Qma&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script><br><script src="http://www.wrzuta.pl/embed_video.js?key=8tCFnmDgOjQ&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script><br><script src="http://www.wrzuta.pl/embed_video.js?key=3a99clpvcma&amp;login=pomocnadlon&amp;width=450&amp;height=387&amp;bg=ffffff" type="text/javascript"></script></p><br><br>
+<p>Zapraszmy do obejrzenia filmów nagranych podczas koncertu charytatywnego zespołu Modern Talking Reloaded oraz finalistów "Masz talent".</p><p><a href="http://vimeo.com/23469803">Koncert Modern Talking Reloaded - Organizator Jarosławska Fundacja Pomocna Dłoń cz. 6</a> from <a href="http://vimeo.com/user6801281">Pomocna Dlon</a> on <a href="http://vimeo.com">Vimeo</a>.</p><p><br></p><p><br><br><br></p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/modern talking_EKZ (3)[1].jpg" target="_blank"><img data-src="img/archive_files/modern talking_EKZ (3)[1].jpg" /></a><br>
@@ -239,7 +239,7 @@ Młodzi, zdolni, wartościowi<p>Jarosławska Fundacja „Pomocna Dłoń” w sze
 <div class="archiveItem">
 <i>2011-06-05 15:48:00</i><br><br>
 Finał Programu &quot;Masz Talent&quot; - filmy z z udziałem uczestników<p>Finał Programu "Masz Talent" - filmy z z udziałem uczestników</p><br><br>
-<p>Finał Programu "Masz Talent" - filmy z z udziałem uczestników</p><p><br></p><p><br></p><p><br></p><br><br>
+<p>Finał Programu "Masz Talent" - filmy z z udziałem uczestników</p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/talent-1.jpg" target="_blank"><img data-src="img/archive_files/talent-1.jpg" /></a><br>

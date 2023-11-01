@@ -82,7 +82,7 @@ To był udany koncert<p>Gwiazdą niedzielnego wieczoru (14 bm.) był legendarny 
 <div class="archiveItem">
 <i>2010-04-01 09:52:00</i><br><br>
 Koncert Dżemu - relacja filmowa<p>Zapraszamy do obejrzenia i przesłuchania filmów i piosenek z koncertu charytatywnego "Pomóżmy dzieciom po urazie" gdzie gwiazdą wieczoru był polski rock'owy zespół Dżem.</p><br><br>
-<p>Zapraszamy do obejrzenia i przesłuchania filmów i piosenek z koncertu  charytatywnego "Pomóżmy dzieciom po urazie" gdzie gwiazdą wieczoru był  polski rock'owy zespół Dżem.</p><p><br></p><p><br></p><p><br></p><br><br>
+<p>Zapraszamy do obejrzenia i przesłuchania filmów i piosenek z koncertu  charytatywnego "Pomóżmy dzieciom po urazie" gdzie gwiazdą wieczoru był  polski rock'owy zespół Dżem.</p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/Dzem.jpg" target="_blank"><img data-src="img/archive_files/Dzem.jpg" /></a><br>
@@ -100,7 +100,7 @@ Masz Talent 2010 !!<p>Jarosławska Fundacja „Pomocna Dłoń” przy wsparciu B
 <div class="archiveItem">
 <i>2010-04-09 16:16:00</i><br><br>
 Wywiad z Prezes Fundacji Pomocna Dłoń w Radiu PWSZ Jarosław<p>Wywiad z Prezes Fundacji Pomocna Dłoń w Twoje Radio Jarosław. Wywiad  przeprowadzony przez redaktor  Annę Inglot.</p><br><br>
-<p>Wywiad z Prezes Fundacji Pomocna Dłoń w Twoje Radio Jarosław. Wywiad  przeprowadzony przez redaktor Annę Inglot.</p><p><br></p><p><br></p><br><br>
+<p>Wywiad z Prezes Fundacji Pomocna Dłoń w Twoje Radio Jarosław. Wywiad  przeprowadzony przez redaktor Annę Inglot.</p><br><br>
 <a href="#" class="loadImages">Załaduj Zdjęcia</a><br>
 <div class="centerImgsEmpty">
 <a href="img/archive_files/Prezes-Fundacji-Alicja-Zajac.jpg" target="_blank"><img data-src="img/archive_files/Prezes-Fundacji-Alicja-Zajac.jpg" /></a><br>
