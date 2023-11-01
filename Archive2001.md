@@ -13,7 +13,7 @@ Nomicnacja prezes Alicji Zając do konkursu o tytuł Społecznika Roku<p>Prezes 
 <br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/spolecznik_roku.jpg" target="_blank"><img data-src="img/archive_files/spolecznik_roku.jpg" /></a><br>
+<a href="img/archive_files/2/spolecznik_roku.jpg" target="_blank"><img data-src="img/archive_files/2/spolecznik_roku.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -22,8 +22,8 @@ Akcja charytatywna<p>Akcja charytatywna zorganizowana dla biednych rodzin wytypo
 <br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/skanuj0002.jpg" target="_blank"><img data-src="img/archive_files/skanuj0002.jpg" /></a><br>
-<a href="img/archive_files/skanuj0003.jpg" target="_blank"><img data-src="img/archive_files/skanuj0003.jpg" /></a><br>
+<a href="img/archive_files/2/skanuj0002.jpg" target="_blank"><img data-src="img/archive_files/2/skanuj0002.jpg" /></a><br>
+<a href="img/archive_files/2/skanuj0003.jpg" target="_blank"><img data-src="img/archive_files/2/skanuj0003.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -37,10 +37,10 @@ Dzień dziecka<p>Tegorocznym obchodom Dnia Dziecka patronowali: Senator RP Andrz
 <br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/dzien_dziecka_2002[1].jpg" target="_blank"><img data-src="img/archive_files/dzien_dziecka_2002[1].jpg" /></a><br>
-<a href="img/archive_files/dzien_dziecka[1].jpg" target="_blank"><img data-src="img/archive_files/dzien_dziecka[1].jpg" /></a><br>
-<a href="img/archive_files/1dzien_dziecka_2002[1].jpg" target="_blank"><img data-src="img/archive_files/1dzien_dziecka_2002[1].jpg" /></a><br>
-<a href="img/archive_files/__b_dc22235867a182c2eb4282a6c5251202.jpg" target="_blank"><img data-src="img/archive_files/__b_dc22235867a182c2eb4282a6c5251202.jpg" /></a><br>
+<a href="img/archive_files/1/dzien_dziecka_2002[1].jpg" target="_blank"><img data-src="img/archive_files/1/dzien_dziecka_2002[1].jpg" /></a><br>
+<a href="img/archive_files/1/dzien_dziecka[1].jpg" target="_blank"><img data-src="img/archive_files/1/dzien_dziecka[1].jpg" /></a><br>
+<a href="img/archive_files/1/1dzien_dziecka_2002[1].jpg" target="_blank"><img data-src="img/archive_files/1/1dzien_dziecka_2002[1].jpg" /></a><br>
+<a href="img/archive_files/1/__b_dc22235867a182c2eb4282a6c5251202.jpg" target="_blank"><img data-src="img/archive_files/1/__b_dc22235867a182c2eb4282a6c5251202.jpg" /></a><br>
 </div>
 </div>
 <div class="archiveItem">
@@ -49,7 +49,7 @@ Dary dla powodzian<p>Dary dla powodzian dostarczono do Starostwa Powiatowego w S
 <br>
 <a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
 <div class="centerImgsEmpty">
-<a href="img/archive_files/dary-dla-powodzian.jpg" target="_blank"><img data-src="img/archive_files/dary-dla-powodzian.jpg" /></a><br>
-<a href="img/archive_files/dary_dla_powodzian.jpg" target="_blank"><img data-src="img/archive_files/dary_dla_powodzian.jpg" /></a><br>
+<a href="img/archive_files/1/dary-dla-powodzian.jpg" target="_blank"><img data-src="img/archive_files/1/dary-dla-powodzian.jpg" /></a><br>
+<a href="img/archive_files/1/dary_dla_powodzian.jpg" target="_blank"><img data-src="img/archive_files/1/dary_dla_powodzian.jpg" /></a><br>
 </div>
 </div>

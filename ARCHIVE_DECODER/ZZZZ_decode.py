@@ -2,6 +2,44 @@ import re
 import datetime
 import os
 
+import ctypes
+from ctypes import wintypes
+
+def get_case_sensitive_path(path):
+    kernel32 = ctypes.WinDLL('kernel32', use_last_error=True)
+
+    FILE_FLAG_BACKUP_SEMANTICS = 0x02000000
+    FILE_FLAG_OPEN_REPARSE_POINT = 0x00200000
+
+    FILE_SHARE_READ = 1
+    OPEN_EXISTING = 3
+    FILE_ATTRIBUTE_NORMAL = 0x80
+
+    lpFileName = os.path.abspath(path)
+    dwDesiredAccess = 0
+    dwShareMode = FILE_SHARE_READ
+    dwCreationDisposition = OPEN_EXISTING
+    dwFlagsAndAttributes = FILE_ATTRIBUTE_NORMAL | FILE_FLAG_BACKUP_SEMANTICS | FILE_FLAG_OPEN_REPARSE_POINT
+    hTemplateFile = None
+
+    hFile = kernel32.CreateFileW(
+        lpFileName,
+        dwDesiredAccess,
+        dwShareMode,
+        None,
+        dwCreationDisposition,
+        dwFlagsAndAttributes,
+        hTemplateFile
+    )
+
+    try:
+        result = ctypes.create_unicode_buffer(512)
+        kernel32.GetFinalPathNameByHandleW(hFile, result, ctypes.sizeof(result), 0)
+        return result.value
+    finally:
+        kernel32.CloseHandle(hFile)
+
+
 def find_ext(page_id):
 	pattern = r'^\d+\$(.*)\$\$\$\$\$\$\$\d+\$'
 	
@@ -22,9 +60,12 @@ def find_files(page_id):
 	with open('pl_pages_files.php', 'r', encoding='utf-8') as pages_files_file:
 		for pages_files_line in pages_files_file:
 			match = re.search(pattern, pages_files_line)
-			if match and os.path.isfile("../img/archive_files/" + match.group(1)):
-				if not match.group(1)[-3:].lower() in ("swf", "doc", "docx", "pdf",):
-					files_list.append(match.group(1))
+			if match:
+				for i in (1, 2,):
+					file_path = get_case_sensitive_path("../img/archive_files/%d/%s"%(i, match.group(1),))
+					if os.path.isfile(file_path):
+						if not file_path[-3:].lower() in ("swf", "doc", "docx", "pdf",):
+							files_list.append("img/archive_files/%d/%s"%(i, os.path.basename(file_path),))
 	
 	return files_list
 	
@@ -86,7 +127,7 @@ title: Archiwum %d
 				f.write('<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>\n<div class="centerImgsEmpty">\n')
 			
 			for img in data[4]:
-				f.write('<a href="img/archive_files/%s" target="_blank"><img data-src="img/archive_files/%s" /></a><br>\n'%(img, img,))
+				f.write('<a href="%s" target="_blank"><img data-src="%s" /></a><br>\n'%(img, img,))
 			
 			if len(data[4]) > 0:
 				f.write("</div>\n")
