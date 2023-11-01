@@ -76,11 +76,11 @@ title: Archiwum %d
 		for data in all_data_by_year[year]:
 			f.write('<div class="archiveItem">\n<i>')
 			f.write(str(data[1]))
-			f.write("</i><br><br>\n")
+			f.write("</i><br>\n")
 			f.write(remove_unwanted_stuff(data[2]))
-			f.write("<br><br>\n")
+			f.write("<br>\n")
 			f.write(remove_unwanted_stuff(data[3]))
-			f.write("<br><br>\n")
+			f.write("<br>\n")
 			
 			if len(data[4]) > 0:
 				f.write('<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>\n<div class="centerImgsEmpty">\n')
