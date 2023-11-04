@@ -11,13 +11,13 @@ Akcja charytatywna w parafii pw. Świętego Brata Alberta<p>Akcja charytatywna w
 <i>2005-06-01 12:21:00</i><br>
 Festyn z okazji &quot;Dnia Dziecka&quot;<p>Festyn z okazji "Dnia Dziecka" w Gimnazjum i Szkole Podstawowej w Chłopicach oraz w Gimnazjum i Szkole Podstawowej w Laszkach.</p><br>
 <p>Festyn z okazji "Dnia Dziecka" w Gimnazjum i Szkole Podstawowej w Chłopicach oraz w Gimnazjum i Szkole Podstawowej w Laszkach - rozdanie nieodpłatnie w konkursach 150 paczek ze słodyczami, zabawkami i odzieżą.</p><br>
-<a href='#' data-src='["img/archive_files/01/festyn.jpg"]' onclick='openImageBrowser(event, 0)' class='loadImages'>ZOBACZ ZDJĘCIA</a>
+<a href='#' data-src='["img/archive_files/01/festyn.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2005-06-08 12:18:00</i><br>
 Wizyta na Ukrainie<p>06.Wizyta na Ukrainie - Jaworów - przekazanie polskim dzieciom pomocy w postaci darów materialnych i rzeczowych</p><br>
 <p>Wizyta na Ukrainie - Jaworów - przekazanie polskim dzieciom pomocy w postaci darów materialnych i rzeczowych</p><br>
-<a href='#' data-src='["img/archive_files/01/bebenek.jpg", "img/archive_files/02/jaworow.jpg", "img/archive_files/02/jaworow[1].jpg", "img/archive_files/02/ukraina.jpg"]' onclick='openImageBrowser(event, 0)' class='loadImages'>ZOBACZ ZDJĘCIA</a>
+<a href='#' data-src='["img/archive_files/01/bebenek.jpg", "img/archive_files/02/jaworow.jpg", "img/archive_files/02/jaworow[1].jpg", "img/archive_files/02/ukraina.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2005-06-08 12:20:00</i><br>
@@ -33,5 +33,5 @@ Akcja propagandowo-uświadamiająca<p>Akcja propagandowo-uświadamiająca z prze
 <i>2005-12-11 12:11:00</i><br>
 Mikołajki 2005<p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" w Jarosławiu, dzieci ze Szkoły Podstawowej w Morawsku oraz dla dzieci ze Szkoły Podstawowej Nr 7 w Dolnoleżajsku.</p><br>
 <p>Imprezy charytatywne "Mikołajki" dla dzieci z "Domu Dziecka" w Jarosławiu, dzieci ze Szkoły Podstawowej w Morawsku oraz dla dzieci ze Szkoły Podstawowej Nr 7 w Dolnoleżajsku.</p><p>Rozdanie paczek mikołajowych w innych szkołach podstawowych w Jarosławiu. Rozdano nieodpłatnie 330 paczek ze słodyczami, zabawkami oraz odzieżą.</p><br>
-<a href='#' data-src='["img/archive_files/01/05.jpg", "img/archive_files/02/morawsko_12.2005.jpg"]' onclick='openImageBrowser(event, 0)' class='loadImages'>ZOBACZ ZDJĘCIA</a>
+<a href='#' data-src='["img/archive_files/01/05.jpg", "img/archive_files/02/morawsko_12.2005.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>

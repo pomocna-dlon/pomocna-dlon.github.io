@@ -90,7 +90,7 @@ title: Archiwum %d
 			f.write("<br>\n")
 			
 			if len(data[4]) > 0:
-				f.write("<a href='#' data-src='%s' onclick='openImageBrowser(event, 0)' class='loadImages'>ZOBACZ ZDJĘCIA</a>\n" % (json.dumps(data[4]),))
+				f.write("<a href='#' data-src='%s' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>\n" % (json.dumps(data[4]),))
 			
 			f.write("</div>\n")
 
