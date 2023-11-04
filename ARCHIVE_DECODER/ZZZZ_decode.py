@@ -1,6 +1,7 @@
 import re
 import datetime
 import os
+import json
 
 def find_ext(page_id):
 	pattern = r'^\d+\$(.*)\$\$\$\$\$\$\$\d+\$'
@@ -89,13 +90,8 @@ title: Archiwum %d
 			f.write("<br>\n")
 			
 			if len(data[4]) > 0:
-				f.write('<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>\n<div class="centerImgsEmpty">\n')
+				f.write("<a href='#' data-src='%s' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>\n" % (json.dumps(data[4]),))
 			
-			for img in data[4]:
-				f.write('<a href="%s" target="_blank"><img data-src="%s" /></a><br>\n'%(img, img,))
-			
-			if len(data[4]) > 0:
-				f.write("</div>\n")
 			f.write("</div>\n")
 
 #print(all_data)

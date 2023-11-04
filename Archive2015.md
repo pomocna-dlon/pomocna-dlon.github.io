@@ -6,258 +6,89 @@ title: Archiwum 2015
 <i>2015-01-27 12:26:00</i><br>
 Spotkanie Noworoczne PSL 25.01.2015<p>25.01.2015r. w Filharmonii Podkarpackiej w Rzeszowie odbyło się Spotkanie Noworoczne PSL...</p><br>
 <p>25.01.2015r. w Filharmonii Podkarpackiej w Rzeszowie odbyło się Spotkanie Noworoczne PSL. Swoją obecnością zaszczycić Wicepremier PSL Janusz Piechociński, a swoimi występami spotkanie uświetniły zespoły "Ratatam" oraz zespół folklorystyczny "Rzeszowiacy".</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/10409581_770668363027468_7048741166340748660_n.jpg" target="_blank"><img data-src="img/archive_files/01/10409581_770668363027468_7048741166340748660_n.jpg" /></a><br>
-<a href="img/archive_files/01/10685332_770668816360756_485094785629074707_n.jpg" target="_blank"><img data-src="img/archive_files/01/10685332_770668816360756_485094785629074707_n.jpg" /></a><br>
-<a href="img/archive_files/01/10930183_770668616360776_894395564943156698_n.jpg" target="_blank"><img data-src="img/archive_files/01/10930183_770668616360776_894395564943156698_n.jpg" /></a><br>
-<a href="img/archive_files/01/10941768_771446642949640_782846912_n.jpg" target="_blank"><img data-src="img/archive_files/01/10941768_771446642949640_782846912_n.jpg" /></a><br>
-<a href="img/archive_files/01/967976_771446936282944_402779653_n.jpg" target="_blank"><img data-src="img/archive_files/01/967976_771446936282944_402779653_n.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/10409581_770668363027468_7048741166340748660_n.jpg", "img/archive_files/01/10685332_770668816360756_485094785629074707_n.jpg", "img/archive_files/01/10930183_770668616360776_894395564943156698_n.jpg", "img/archive_files/01/10941768_771446642949640_782846912_n.jpg", "img/archive_files/01/967976_771446936282944_402779653_n.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-02-27 15:39:00</i><br>
 Jabłka na jarosławskim rynku<p>Dnia 4.03, tj. środa, około godziny 14:00 na jarosławskim rynku rozdawane będą jabłka...</p><br>
 <p>Dnia 4.03, tj. środa, około godziny 14:00 na jarosławskim rynku rozdawane będą jabłka.</p><p>Zapraszamy wszystkich potrzebujących i zainteresowanych.</p><p>Starczy dla każdego!</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/121730_drewniany-kosz-jablka-trawa.jpg" target="_blank"><img data-src="img/archive_files/01/121730_drewniany-kosz-jablka-trawa.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/121730_drewniany-kosz-jablka-trawa.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-03-09 21:53:00</i><br>
 Jabłka na jarosławskim rynku - relacja<p>W środę, 4 marca, na rynku w Jarosławiu odbyła się zorganizowana przez naszą fundację akcja rozdawania jabłek. Darmowe owoce mógł otrzymać każdy...</p><br>
 <p>W środę, 4 marca, na rynku w Jarosławiu odbyła się zorganizowana przez naszą fundację akcja rozdawania jabłek. Darmowe owoce mógł otrzymać każdy.</p><p>Inicjatorem akcji rozdawania jabłek był sadownik z Sandomierza, Norbert Szczudło, który zdecydował się przekazać fundacji 1000 skrzynek owoców. Jabłka zostały przywiezione do Jarosława przez Bank Żywności w Rzeszowie, a ich przekazanie było możliwe dzięki dofinansowaniu z funduszy unijnych oraz Agencji Restrukturyzacji i Modernizacji Rolnictwa.</p><p>- Inicjatywa okazała się wielkim sukcesem. Jestem bardzo zadowolona. Rozdaliśmy 20 ton jabłek. Trafiły one do różnych instytucji, tj. szkół, przedszkoli, świetlic, Domu Dziecka, a przede wszystkim do mieszkańców Jarosławia - mówi koordynatorka akcji i prezes fundacji, Alicja Zając.</p><p>W związku z ogromnym zainteresowaniem akcją pomysłodawcy zdecydowali się ją powtórzyć. Jabłka prawdopodobnie będą rozdawane ponownie na jarosławskim rynku już 19 marca.</p><p>Zapraszamy wszystkich zainteresowanych!</p><p><em>źródło: Gazeta Jarosławska</em></p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/11021176_791798887581082_112746884395748550_n.jpg" target="_blank"><img data-src="img/archive_files/01/11021176_791798887581082_112746884395748550_n.jpg" /></a><br>
-<a href="img/archive_files/01/11043263_791798537581117_3179200566839051848_n.jpg" target="_blank"><img data-src="img/archive_files/01/11043263_791798537581117_3179200566839051848_n.jpg" /></a><br>
-<a href="img/archive_files/01/1908410_791800240914280_5897909943502594988_n.jpg" target="_blank"><img data-src="img/archive_files/01/1908410_791800240914280_5897909943502594988_n.jpg" /></a><br>
-<a href="img/archive_files/01/20120404.jpg" target="_blank"><img data-src="img/archive_files/01/20120404.jpg" /></a><br>
-<a href="img/archive_files/02/j1.jpg" target="_blank"><img data-src="img/archive_files/02/j1.jpg" /></a><br>
-<a href="img/archive_files/02/j2.jpg" target="_blank"><img data-src="img/archive_files/02/j2.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/11021176_791798887581082_112746884395748550_n.jpg", "img/archive_files/01/11043263_791798537581117_3179200566839051848_n.jpg", "img/archive_files/01/1908410_791800240914280_5897909943502594988_n.jpg", "img/archive_files/01/20120404.jpg", "img/archive_files/02/j1.jpg", "img/archive_files/02/j2.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-03-24 15:28:00</i><br>
 Jabłka na jarosławskim rynku, ponownie!<p>Jarosławska Fundacja "Pomocna dłoń" w dniu 19.03.2015 czwartek ul. Rynek rozdawała jabłka w pierwszym gatunku mieszkańcom Jarosławia i nie tylko...</p><br>
 <p>Jarosławska Fundacja "Pomocna dłoń" w dniu 19.03.2015 czwartek ul. Rynek rozdawała jabłka w pierwszym gatunku mieszkańcom Jarosławia i nie tylko. Tłumy ludzi były nie do opanowania przez Organizatora, Straż Miejską i Policję. Takiego zainteresowania jabłkami w Jarosławiu od niepamiętnych czasów jeszcze nie było. Bardzo dziękujemy za zainteresowanie akcją i tak liczną obecność!</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/10580082_799202436840727_829445406163013578_n.jpg" target="_blank"><img data-src="img/archive_files/01/10580082_799202436840727_829445406163013578_n.jpg" /></a><br>
-<a href="img/archive_files/01/10592615_799202766840694_879148018888102221_n.jpg" target="_blank"><img data-src="img/archive_files/01/10592615_799202766840694_879148018888102221_n.jpg" /></a><br>
-<a href="img/archive_files/01/10929131_799202886840682_1350801226337275716_n.jpg" target="_blank"><img data-src="img/archive_files/01/10929131_799202886840682_1350801226337275716_n.jpg" /></a><br>
-<a href="img/archive_files/01/11024603_802303016530669_9182815466783626821_n.jpg" target="_blank"><img data-src="img/archive_files/01/11024603_802303016530669_9182815466783626821_n.jpg" /></a><br>
-<a href="img/archive_files/01/11072174_802302733197364_5518189866909878770_n.jpg" target="_blank"><img data-src="img/archive_files/01/11072174_802302733197364_5518189866909878770_n.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/10580082_799202436840727_829445406163013578_n.jpg", "img/archive_files/01/10592615_799202766840694_879148018888102221_n.jpg", "img/archive_files/01/10929131_799202886840682_1350801226337275716_n.jpg", "img/archive_files/01/11024603_802303016530669_9182815466783626821_n.jpg", "img/archive_files/01/11072174_802302733197364_5518189866909878770_n.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-03-28 18:34:00</i><br>
 &quot;Magiczne Zwierzenia&quot;  w Szkole Podstawowej Nr 11 w Jarosławiu<p>Wiersze czytane były przez autorkę, p. Alicję Zając, Prezes Fundacji.</p><br>
 <p>Wiersze czytane były przez autorkę, p. Alicję Zając, Prezes Fundacji.</p><p>Dzieci w skupieniu słuchały poezji i aktywnie włączały się w rozmowę z autorką.</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/10413387_802726719821632_5809751350966029612_n.jpg" target="_blank"><img data-src="img/archive_files/01/10413387_802726719821632_5809751350966029612_n.jpg" /></a><br>
-<a href="img/archive_files/01/10480649_802726996488271_1594211017855406092_n.jpg" target="_blank"><img data-src="img/archive_files/01/10480649_802726996488271_1594211017855406092_n.jpg" /></a><br>
-<a href="img/archive_files/01/11091311_802726583154979_8840834732109663317_n.jpg" target="_blank"><img data-src="img/archive_files/01/11091311_802726583154979_8840834732109663317_n.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/10413387_802726719821632_5809751350966029612_n.jpg", "img/archive_files/01/10480649_802726996488271_1594211017855406092_n.jpg", "img/archive_files/01/11091311_802726583154979_8840834732109663317_n.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-04-02 21:11:00</i><br>
 Masz talent - eliminacje<p>Jarosławska Fundacja Pomocna Dłoń wraz z Centrum Kultury i Promocji Miasta Jarosławia<strong> </strong>zapraszają na <strong>Program "Masz Talent"...</strong></p><br>
 <p>Jarosławska Fundacja Pomocna Dłoń wraz z Centrum Kultury i Promocji Miasta Jarosławia<strong> </strong>zapraszają na <strong>Program "Masz Talent"</strong><br>Eliminacje odbędą się <strong>15.04.2015 r</strong>. o <strong>godz. 11:00</strong> w Sali Lustrzanej CKiP w Jarosławiu Rynek 5 (kamienica Attavantich).<br><strong>Potrafisz śpiewać?<br>Tańczyć?<br>Komponujesz własną muzykę?<br>Wyróżniasz się talentem, którym chcesz się pochwalić?</strong><br>Przyjdź na eliminacje „Masz Talent”!<br>To może być Twój pierwszy krok do rozpoczęcia kariery!<br>Program jest przeznaczony m.in. dla uczniów szkół podstawowych, gimnazjalnych i ponadgimnazjalnych.<br>Serdecznie zapraszamy wszystkich chętnych!<br>Zgłoszenie kandydata musi zawierać:</p><ol><li>imię i nazwisko,</li><li>adres zamieszkania,</li><li>wiek,</li><li>kategoria występu,</li><li>telefon kontaktowy,</li><li>nazwa szkoły (jeśli dotyczy).</li></ol><p><br>Zgłoszenia przyjmowane będą do 11.04.2015</p><p>Poniżej zamieszczony został link do pobrania formularza zgłoszeniowego:</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/__b_4dd60fca878851f12c8703b50b348ec8.jpg" target="_blank"><img data-src="img/archive_files/01/__b_4dd60fca878851f12c8703b50b348ec8.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/mt2015.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-04-17 19:11:00</i><br>
 Eliminacje &quot;Masz talent&quot; <p>15.04.2015 w Centrum Kultury i Promocji w Jarosławiu odbyły się eliminacje "Masz Talent"...</p><br>
 <p>15.04.2015 w Centrum Kultury i Promocji w Jarosławiu odbyły się eliminacje "Masz Talent".</p><p>Organizatorem eliminacji jest Jarosławska fundacja "Pomocna dłoń". Współorganizator: Burmistrz Miasta Jarosław, Urząd Miasta Jarosław, CKiP w Jarosławiu.</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/10347501_812974258796878_8041255672396154688_n.jpg" target="_blank"><img data-src="img/archive_files/01/10347501_812974258796878_8041255672396154688_n.jpg" /></a><br>
-<a href="img/archive_files/01/10690021_812973522130285_1034668136345282708_n.jpg" target="_blank"><img data-src="img/archive_files/01/10690021_812973522130285_1034668136345282708_n.jpg" /></a><br>
-<a href="img/archive_files/01/11130195_812973652130272_5551504905468421692_o.jpg" target="_blank"><img data-src="img/archive_files/01/11130195_812973652130272_5551504905468421692_o.jpg" /></a><br>
-<a href="img/archive_files/01/11150334_812974388796865_5149350082059807838_n.jpg" target="_blank"><img data-src="img/archive_files/01/11150334_812974388796865_5149350082059807838_n.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/10347501_812974258796878_8041255672396154688_n.jpg", "img/archive_files/01/10690021_812973522130285_1034668136345282708_n.jpg", "img/archive_files/01/11130195_812973652130272_5551504905468421692_o.jpg", "img/archive_files/01/11150334_812974388796865_5149350082059807838_n.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-04-17 19:14:00</i><br>
 Finał &quot;Masz talent&quot; 2.05.2015r<p>Zapraszamy wszystkich zainteresowanych na jarosławski rynek...</p><br>
 <p>Zapraszamy wszystkich zainteresowanych na jarosławski rynek. 2.05.2015 o godz. 17.00 w trakcie Jarosławskich Majówek odbędzie się finał programu "Masz Talent".</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/02/sdf.jpg" target="_blank"><img data-src="img/archive_files/02/sdf.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/02/sdf.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-05-03 22:18:00</i><br>
 Eliminacje do programu &quot;Masz Talent&quot; w gminie Chłopice<p>Eliminacje do programu "Masz Talent" w gminie Chłopice wyłoniły...</p><br>
 <p>Eliminacje do programu "Masz Talent" w gminie Chłopice wyłoniły finalistkę: Paulinę Kurecką, kl. VI, kat. śpiew.</p><p>PWSTiE reprezentować będą natomiast następujące osoby:</p><p>- Tatiana Shustko, kat. śpiew</p><p>- Serhij Jazybczyk i Oleksiy Panasko  - duet, kat. śpiew</p><p>- Łukasz Szałaj, kat. śpiew</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/1 (1).jpg" target="_blank"><img data-src="img/archive_files/01/1 (1).jpg" /></a><br>
-<a href="img/archive_files/01/1 (2).jpg" target="_blank"><img data-src="img/archive_files/01/1 (2).jpg" /></a><br>
-<a href="img/archive_files/01/1 (3).jpg" target="_blank"><img data-src="img/archive_files/01/1 (3).jpg" /></a><br>
-<a href="img/archive_files/01/1 (4).jpg" target="_blank"><img data-src="img/archive_files/01/1 (4).jpg" /></a><br>
-<a href="img/archive_files/01/1 (5).jpg" target="_blank"><img data-src="img/archive_files/01/1 (5).jpg" /></a><br>
-<a href="img/archive_files/01/1 (6).jpg" target="_blank"><img data-src="img/archive_files/01/1 (6).jpg" /></a><br>
-<a href="img/archive_files/01/1 (7).jpg" target="_blank"><img data-src="img/archive_files/01/1 (7).jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/1 (1).jpg", "img/archive_files/01/1 (2).jpg", "img/archive_files/01/1 (3).jpg", "img/archive_files/01/1 (4).jpg", "img/archive_files/01/1 (5).jpg", "img/archive_files/01/1 (6).jpg", "img/archive_files/01/1 (7).jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-05-04 20:22:00</i><br>
 Majówka 2015 na jarosławskim rynku<p>W sobotę 2 maja w ramach jarosławskiej "Majówki" odbył się finał VII edycji konkursu "Masz talent" organizowanego przez naszą fundację, przy współpracy z Centrum Kultury i Promocji w Jarosławiu oraz Burmistrza Miasta Jarosławia...</p><br>
 <p>W sobotę 2 maja w ramach jarosławskiej "Majówki" odbył się finał VII edycji konkursu "Masz talent" organizowanego przez naszą fundację, przy współpracy z Centrum Kultury i Promocji w Jarosławiu oraz Burmistrza Miasta Jarosławia.</p><p>Uczestników oceniało jury w składzie:<br>Jacek Ścibor (dr sztuk wokalnych)<br>Alicja Zając (prezes fundacji)<br>Karol Dziedzic (muzyk)<br>Marcin Kołpak (muzyk)<br>Maciej Inglot (muzyk)<br>Henryk Cebula (artysta plastyk)<br>Marcin Zaborniak (wiceburmistrz Jarosławia)</p><p>Zwyciężczynią tegorocznej edycji konkursu została <strong>Katarzyna Wygnaniec</strong> (śpiew). Ponadto jury przyznało pięć wyróżnień. Otrzymali je: Katarzyna i Aleksandra Wygnaniec (śpiew), Tatiana Shutsko (taniec), Kacper Dąbrowski (śpiew), Mateusz Wolwowicz (taniec) oraz Jarosław Dominik (akordeon). Nagroda publiczności powędrowała do Sergieja Jazywczuka i Oleksija Pamarko.</p><p>Imprezę, która cieszyła się sporym zainteresowaniem prowadziła prezes fundacji Alicja Zając.</p><p>- Publiczność mimo niesprzyjającej pogody dopisała. Chciałam podziękować wszystkim za przybycie. Kolejna edycja "Masz talent" okazała się sukcesem. Słowa podziękowania kieruję także do współorganizatorów konkursu - zaznacza prezes fundacji.</p><p>W finale wystąpiła 16 młodych artystów. 12 wyłonionych w eliminacjach które odbyły się 15 kwietnia w CKiP w Jarosławiu, 3 studentów jarosławskiej PWSTE oraz jedna osoba wyłoniona ze zmagań stoczonych w Chłopicach. Główną nagrodą był telefon najnowszej generacji. Laureatka, K. Wygnaniec została ponadto zaproszona przez K. Dziedzica na godzinną, prywatną lekcje śpiewu w Krakowie.</p><p>Gwiazdą sobotniego wieczoru na jarosławskim Rynku był zwycięzca programu "The Voice of Poland" Juan Carlos Cano wraz z zespołem Enclose.</p><p>tekst: Gazeta Jarosławska</p><p>zdj.: Centrum Kultury i Promocji w Jarosławiu oraz Marta Dobrucka, Gazeta Jarosławska</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/02052015.jpg" target="_blank"><img data-src="img/archive_files/01/02052015.jpg" /></a><br>
-<a href="img/archive_files/01/11049447_822379604523010_8427953415135148486_n.jpg" target="_blank"><img data-src="img/archive_files/01/11049447_822379604523010_8427953415135148486_n.jpg" /></a><br>
-<a href="img/archive_files/01/11122484_825348704226100_1371025617_n.jpg" target="_blank"><img data-src="img/archive_files/01/11122484_825348704226100_1371025617_n.jpg" /></a><br>
-<a href="img/archive_files/01/11210139_825349967559307_1429092125_n.jpg" target="_blank"><img data-src="img/archive_files/01/11210139_825349967559307_1429092125_n.jpg" /></a><br>
-<a href="img/archive_files/01/11210488_822379761189661_255817341919460572_n.jpg" target="_blank"><img data-src="img/archive_files/01/11210488_822379761189661_255817341919460572_n.jpg" /></a><br>
-<a href="img/archive_files/01/11216036_825348837559420_2007127503_n.jpg" target="_blank"><img data-src="img/archive_files/01/11216036_825348837559420_2007127503_n.jpg" /></a><br>
-<a href="img/archive_files/01/11216300_825348580892779_1105835839_n.jpg" target="_blank"><img data-src="img/archive_files/01/11216300_825348580892779_1105835839_n.jpg" /></a><br>
-<a href="img/archive_files/01/dsc_1372.jpg" target="_blank"><img data-src="img/archive_files/01/dsc_1372.jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (1).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (1).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (10).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (10).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (11).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (11).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (12).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (12).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (13).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (13).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (14).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (14).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (15).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (15).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (16).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (16).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (17).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (17).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (18).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (18).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (19).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (19).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (2).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (2).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (20).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (20).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (21).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (21).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (22).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (22).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (23).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (23).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (24).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (24).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (25).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (25).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (26).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (26).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (27).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (27).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (3).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (3).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (4).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (4).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (5).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (5).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (6).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (6).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (7).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (7).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (8).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (8).jpg" /></a><br>
-<a href="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (9).jpg" target="_blank"><img data-src="img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (9).jpg" /></a><br>
-<a href="img/archive_files/02/marcin.jpg" target="_blank"><img data-src="img/archive_files/02/marcin.jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0285.jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0285.jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0287.jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0287.jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0311.jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0311.jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0320 (1).jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0320 (1).jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0324.jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0324.jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0325.jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0325.jpg" /></a><br>
-<a href="img/archive_files/01/_dsc0342.jpg" target="_blank"><img data-src="img/archive_files/01/_dsc0342.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/02052015.jpg", "img/archive_files/01/11049447_822379604523010_8427953415135148486_n.jpg", "img/archive_files/01/11122484_825348704226100_1371025617_n.jpg", "img/archive_files/01/11210139_825349967559307_1429092125_n.jpg", "img/archive_files/01/11210488_822379761189661_255817341919460572_n.jpg", "img/archive_files/01/11216036_825348837559420_2007127503_n.jpg", "img/archive_files/01/11216300_825348580892779_1105835839_n.jpg", "img/archive_files/01/dsc_1372.jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (1).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (10).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (11).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (12).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (13).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (14).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (15).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (16).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (17).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (18).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (19).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (2).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (20).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (21).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (22).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (23).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (24).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (25).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (26).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (27).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (3).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (4).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (5).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (6).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (7).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (8).jpg", "img/archive_files/02/majowka 2015 - marta dobrucka gazeta jaroslawska (9).jpg", "img/archive_files/02/marcin.jpg", "img/archive_files/01/_dsc0285.jpg", "img/archive_files/01/_dsc0287.jpg", "img/archive_files/01/_dsc0311.jpg", "img/archive_files/01/_dsc0320 (1).jpg", "img/archive_files/01/_dsc0324.jpg", "img/archive_files/01/_dsc0325.jpg", "img/archive_files/01/_dsc0342.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-08-04 07:42:00</i><br>
 Bijemy rekord w czytaniu na głos!<p>Jarosławska Fundacja „Pomocna Dłoń” i Wydawnictwo Literackie Białe Pióro oraz Burmistrz Miasta Jarosławia w dniu 28/08/2015r. przeprowadzą wydarzenie, obejmujące bicie rekordu Polski w czytaniu na głos...</p><br>
 <p>Szanowni Państwo,</p><p>Jarosławska Fundacja „Pomocna Dłoń” i Wydawnictwo Literackie Białe Pióro oraz Burmistrz Miasta Jarosławia w dniu 28/08/2015r. przeprowadzą wydarzenie, obejmujące bicie rekordu Polski w czytaniu na głos. Maraton czytania odbędzie się w Jarosławiu pod przewodnictwem Biura Rekordów, które zajmuje się nadzorowaniem poprawności przebiegu rekordów Guinnessa i Polski.</p><p>Zwracamy się do Państwa z serdeczną prośba o wsparcie naszego wydarzenia przez wpłacanie wolnych datków na konto Fundacji:</p><p><strong>12 9096 0004 2001 0000 2264 0001</strong> (Bank Spółdzielczy w Jarosławiu)</p><p>Firmy, które zechcą dokonać zgłoszenia udziału i wpłaty na konto Fundacji będą obowiązkowo wpisane do Księgi Rekordu. Jeśli nie będą mogły wystawić swojego przedstawiciela, będą reprezentowane na wydarzeniu przez wolontariuszy, którzy będą czytać w ich imieniu.</p><p><strong>Każdy darczyńca zostanie wymieniony na naszych portalach i w mediach nas wspomagających.</strong></p><p>Zapraszamy również do dołączania do wydarzenia w serwisie Facebook:<br><a href="https://www.facebook.com/events/1615753285350895/" target="_blank">https://www.facebook.com/events/1615753285350895/</a></p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/02/plakat rekord.jpg" target="_blank"><img data-src="img/archive_files/02/plakat rekord.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/02/plakat rekord.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-09-02 22:42:00</i><br>
 Maraton Czytania. Pobiliśmy rekord w czytaniu!<p>Po 45 godzinach ciągłego czytania na głos pobito rekord Polski...</p><br>
 <div class="beginning"><div class="beginning">Po 45 godzinach ciągłego czytania na głos pobito rekord Polski w tej konkurencji! Mieszkańcy czytali przez dwie noce i niespełna dwa dni, podczas gdy poprzedni rekord wyniósł „tylko" 30 godzin. W sumie książki wydawnictwa Literackiego „Białe Pióro", które współorganizowało Maraton czytały 154 osoby, w tym pracownicy Urzędu Miasta Jarosławia, uczestnicy Festiwalu Muzyki Dawnej oraz harcerze.</div><div class="beginning">Jest to wielki sukces dla Fundacji, Wydawnictwa i mieszkańców miasta Jarosławia.</div><div class="beginning"><br></div><div class="beginning">Dziękujemy wszystkim którzy przyczynili się do naszego wspólnego sukcesu!</div><div class="beginning"><br></div><div class="beginning">Maraton Czytania oraz bicie rekordu Polski były pomysłem Fundacji. Prezes Fundacji Pani Alicja Zając postanowiła w ten sposób promować czytelnictwo i zachęcić do sięgania po ciekawą lekturę w tradycyjnej drukowanej postaci. Patronat nad wydarzeniem objął Burmistrz Miasta Jarosławia.</div><div class="beginning">Maraton - informacje podstawowe:</div><div class="beginning">Organizator bicia rekordu: Alicja Zając - Prezes Jarosławskiej Fundacji "Pomocna Dłoń",</div><div class="beginning">Współorganizator: Agnieszka Kazała  - Wydawnictwo Literackie Białe Pióro z Warszawy,</div><div class="beginning">Gospodarz: Burmistrz Miasta Jarosławia</div><div class="beginning">Rozpoczęcie Maratonu Czytania: 28.08.2015 - godz. 14.43</div><div class="beginning">Zakończenie: 30.08.2015 - godz. 11:45</div><div class="beginning">Liczba godzin czytania: 45 godzin!</div><div class="beginning">Liczba osób czytających: 154 osoby</div><div class="beginning">Liczba rozdanych książek z wyd. Literackiego „Białe Pióro" dla osób czytających - 350 egzemplarzy.</div><div class="beginning">Rekord został pobity prawie podwójnie, ponieważ w założeniu było 30 godzin, a udało się zrealizować 45 godzin czytania.</div><div class="beginning"><br></div><div class="beginning"><br></div><div class="beginning">Jest to wielki sukces dla Fundacji, Wydawnictwa i mieszkańców miasta Jarosławia.</div><div class="beginning"><br></div><div class="beginning">Dziękujemy wszystkim którzy przyczynili się do naszego wspólnego sukcesu!</div></div><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/10448735_882720915155545_8980098512085726434_n.jpg" target="_blank"><img data-src="img/archive_files/01/10448735_882720915155545_8980098512085726434_n.jpg" /></a><br>
-<a href="img/archive_files/01/11349090_884425128318457_2025838986_n.jpg" target="_blank"><img data-src="img/archive_files/01/11349090_884425128318457_2025838986_n.jpg" /></a><br>
-<a href="img/archive_files/01/11866266_880609935366643_8727857130644432536_n.jpg" target="_blank"><img data-src="img/archive_files/01/11866266_880609935366643_8727857130644432536_n.jpg" /></a><br>
-<a href="img/archive_files/01/11889523_1171155322895186_5741785398880896429_n.jpg" target="_blank"><img data-src="img/archive_files/01/11889523_1171155322895186_5741785398880896429_n.jpg" /></a><br>
-<a href="img/archive_files/01/11889559_1171155316228520_2743620655506292519_n.jpg" target="_blank"><img data-src="img/archive_files/01/11889559_1171155316228520_2743620655506292519_n.jpg" /></a><br>
-<a href="img/archive_files/01/11896141_880606518700318_3857999499573048827_n.jpg" target="_blank"><img data-src="img/archive_files/01/11896141_880606518700318_3857999499573048827_n.jpg" /></a><br>
-<a href="img/archive_files/01/11899851_1171155312895187_8517738078420012401_n.jpg" target="_blank"><img data-src="img/archive_files/01/11899851_1171155312895187_8517738078420012401_n.jpg" /></a><br>
-<a href="img/archive_files/01/11907211_1171155319561853_4017276783317494898_n.jpg" target="_blank"><img data-src="img/archive_files/01/11907211_1171155319561853_4017276783317494898_n.jpg" /></a><br>
-<a href="img/archive_files/01/11917762_881302641964039_8158589025752602654_n.jpg" target="_blank"><img data-src="img/archive_files/01/11917762_881302641964039_8158589025752602654_n.jpg" /></a><br>
-<a href="img/archive_files/01/11923575_880606312033672_5253106979716761095_n.jpg" target="_blank"><img data-src="img/archive_files/01/11923575_880606312033672_5253106979716761095_n.jpg" /></a><br>
-<a href="img/archive_files/01/11947445_880606675366969_5728969590799521276_n.jpg" target="_blank"><img data-src="img/archive_files/01/11947445_880606675366969_5728969590799521276_n.jpg" /></a><br>
-<a href="img/archive_files/01/11949348_881302875297349_2628740001875109648_n.jpg" target="_blank"><img data-src="img/archive_files/01/11949348_881302875297349_2628740001875109648_n.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/10448735_882720915155545_8980098512085726434_n.jpg", "img/archive_files/01/11349090_884425128318457_2025838986_n.jpg", "img/archive_files/01/11866266_880609935366643_8727857130644432536_n.jpg", "img/archive_files/01/11889523_1171155322895186_5741785398880896429_n.jpg", "img/archive_files/01/11889559_1171155316228520_2743620655506292519_n.jpg", "img/archive_files/01/11896141_880606518700318_3857999499573048827_n.jpg", "img/archive_files/01/11899851_1171155312895187_8517738078420012401_n.jpg", "img/archive_files/01/11907211_1171155319561853_4017276783317494898_n.jpg", "img/archive_files/01/11917762_881302641964039_8158589025752602654_n.jpg", "img/archive_files/01/11923575_880606312033672_5253106979716761095_n.jpg", "img/archive_files/01/11947445_880606675366969_5728969590799521276_n.jpg", "img/archive_files/01/11949348_881302875297349_2628740001875109648_n.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-09-25 17:36:00</i><br>
 Wybory do Senatu<p>Zachęcamy do wzięcia udziału w głosowaniu w wyborach w dniu 25.10.2015r.</p><br>
 <p>Zachęcamy do wzięcia udziału w głosowaniu w wyborach w dniu 25.10.2015r.</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/12006620_894522943975342_3236324268022227340_o.jpg" target="_blank"><img data-src="img/archive_files/01/12006620_894522943975342_3236324268022227340_o.jpg" /></a><br>
-<a href="img/archive_files/01/2[1].jpg" target="_blank"><img data-src="img/archive_files/01/2[1].jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/12006620_894522943975342_3236324268022227340_o.jpg", "img/archive_files/01/2[1].jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-12-01 17:27:00</i><br>
 Uroczystość wręczenia Certyfikatów Bicia Rekordów Polski<p>W dniu 27.11.2015 w Sali Ślubów Jarosław odbyła się Uroczystość wręczenia Certyfikatów Bicia Rekordów Polski...</p><br>
 <p>Ostatnie dni sierpniowe należały do czytelników, którzy podjęli się próby pobicia w Jarosławiu rekordu Polski w głośnym czytaniu non stop. Po książki Wydawnictwa Literackiego „Białe Pióro” sięgnęło 154 osoby, którym udało się wytrwać 45 godzin. Potwierdzeniem ustanowienia nowego wyniku jest oficjalny certyfikat wręczony 27 listopada br. przez zastępcę burmistrza Wiesława Pirożka m.in. pomysłodawczyni akcji Alicji Zając, prezes Jarosławskiej Fundacji „Pomocna Dłoń”.</p><p>154 osoby na pożegnanie lata w Jarosławiu sięgnęły po książki Wydawnictwa Literackiego „Białe Pióro". Chodziło nie tylko o przyjemne spędzenie czasu z wybraną przez siebie literaturą, ale ustanowienie nowego rekordu Polski w głośnym czytaniu non stop. Realizacja ambitnego planu rozpoczęła się 28 sierpnia br. w Sali Ślubów kamienicy Gruszewiczów i tam też po 45 godzinach (3 dniach i 2 nocach) zakończyła się sukcesem. Organizatorami akcji były: Jarosławska Fundacja „Pomocna Dłoń" oraz Wydawnictwo Literackie „Białe Pióro", które wysłało do naszego miasta aż 350 książek.</p><p>Wybrane przez siebie egzemplarze czytali m.in. pracownicy Urzędu, harcerze, nauczyciele jarosławskich szkół, uczestnicy odbywającego się w tych dniach Festiwalu Muzyki Dawnej „Pieśń Naszych Korzeni", czy mieszkańcy miasta. Każdy mógł przyłączyć się w dowolnym momencie, a wybraną książkę otrzymywał na pamiątkę.</p><p>27 listopada ponownie zostało przypomniane sierpniowe wydarzenie. Biuro Rekordów zajmujące się poprawnością przebiegu tego typu przedsięwzięć, przyznało oficjalne certyfikaty za ustanowienie w naszym mieście rekordu w kategorii „Najdłuższy Maraton Czytania Książek Jednego Wydawnictwa". Dokumenty organizatorom wręczył zastępca burmistrza Wiesław Pirożek, który pogratulował pomysłu i wytrwałości oraz podziękował wszystkim zaangażowanym w realizację niecodziennej akcji, szczególnie prezes JF „Pomocna Dłoń” oraz Agnieszce Kazała z warszawskiego Wydawnictwa Literackiego „Białe Pióro”. - Cieszę się bardzo, że to się zdarzyło w Jarosławiu. Jesteśmy otwarci na każdą inicjatywę tworzenia czegoś nowego i przełamywania barier, które wydawałoby się, są nie do przełamania - zaznaczył W. Pirożek.</p><p>Miłym akcentem spotkania był program artystyczny w wykonaniu uczestników tegorocznej edycji programu „Masz Talent" - laureatek I miejsca Aleksandry i Katarzyny Wygnaniec z PG nr 1, Łukasza Szałąja - członka Zarządu Fundacji „Pomocna Dłoń” oraz I-klasistów z SP nr 11 pod opieką Aliny Mazur i Agnieszki Dębickiej.</p><p>Małgorzata Młynarska</p><p><strong>Zapraszamy do obejrzenia nagrania z wydarzenia pod adresem:</strong> <a href="https://www.youtube.com/watch?v=kywlGIx6XZY">https://www.youtube.com/watch?v=kywlGIx6XZY</a></p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/12308299_920825704678399_2278638947963195927_n.jpg" target="_blank"><img data-src="img/archive_files/01/12308299_920825704678399_2278638947963195927_n.jpg" /></a><br>
-<a href="img/archive_files/01/12308651_920825908011712_1742562251097340919_n.jpg" target="_blank"><img data-src="img/archive_files/01/12308651_920825908011712_1742562251097340919_n.jpg" /></a><br>
-<a href="img/archive_files/01/23e57097-8680-42e4-8d70-dfa435ac1bb3.jpg" target="_blank"><img data-src="img/archive_files/01/23e57097-8680-42e4-8d70-dfa435ac1bb3.jpg" /></a><br>
-<a href="img/archive_files/01/image00001.jpg" target="_blank"><img data-src="img/archive_files/01/image00001.jpg" /></a><br>
-<a href="img/archive_files/01/image00002.jpg" target="_blank"><img data-src="img/archive_files/01/image00002.jpg" /></a><br>
-<a href="img/archive_files/01/image00003.jpg" target="_blank"><img data-src="img/archive_files/01/image00003.jpg" /></a><br>
-<a href="img/archive_files/01/image00005.jpg" target="_blank"><img data-src="img/archive_files/01/image00005.jpg" /></a><br>
-<a href="img/archive_files/01/image00006.jpg" target="_blank"><img data-src="img/archive_files/01/image00006.jpg" /></a><br>
-<a href="img/archive_files/01/image00007.jpg" target="_blank"><img data-src="img/archive_files/01/image00007.jpg" /></a><br>
-<a href="img/archive_files/01/image00008.jpg" target="_blank"><img data-src="img/archive_files/01/image00008.jpg" /></a><br>
-<a href="img/archive_files/01/image00010.jpg" target="_blank"><img data-src="img/archive_files/01/image00010.jpg" /></a><br>
-<a href="img/archive_files/01/image00011.jpg" target="_blank"><img data-src="img/archive_files/01/image00011.jpg" /></a><br>
-<a href="img/archive_files/01/image00016.jpg" target="_blank"><img data-src="img/archive_files/01/image00016.jpg" /></a><br>
-<a href="img/archive_files/01/image00017.jpg" target="_blank"><img data-src="img/archive_files/01/image00017.jpg" /></a><br>
-<a href="img/archive_files/01/image00018.jpg" target="_blank"><img data-src="img/archive_files/01/image00018.jpg" /></a><br>
-<a href="img/archive_files/01/image00019.jpg" target="_blank"><img data-src="img/archive_files/01/image00019.jpg" /></a><br>
-<a href="img/archive_files/01/image00020.jpg" target="_blank"><img data-src="img/archive_files/01/image00020.jpg" /></a><br>
-<a href="img/archive_files/01/image00020[1].jpg" target="_blank"><img data-src="img/archive_files/01/image00020[1].jpg" /></a><br>
-<a href="img/archive_files/01/image00023.jpg" target="_blank"><img data-src="img/archive_files/01/image00023.jpg" /></a><br>
-<a href="img/archive_files/01/image00025.jpg" target="_blank"><img data-src="img/archive_files/01/image00025.jpg" /></a><br>
-<a href="img/archive_files/01/image00026.jpg" target="_blank"><img data-src="img/archive_files/01/image00026.jpg" /></a><br>
-<a href="img/archive_files/01/image00027.jpg" target="_blank"><img data-src="img/archive_files/01/image00027.jpg" /></a><br>
-<a href="img/archive_files/01/image00028.jpg" target="_blank"><img data-src="img/archive_files/01/image00028.jpg" /></a><br>
-<a href="img/archive_files/01/image00029.jpg" target="_blank"><img data-src="img/archive_files/01/image00029.jpg" /></a><br>
-<a href="img/archive_files/01/image00031.jpg" target="_blank"><img data-src="img/archive_files/01/image00031.jpg" /></a><br>
-<a href="img/archive_files/01/image00034.jpg" target="_blank"><img data-src="img/archive_files/01/image00034.jpg" /></a><br>
-<a href="img/archive_files/01/image00035.jpg" target="_blank"><img data-src="img/archive_files/01/image00035.jpg" /></a><br>
-<a href="img/archive_files/01/image00036.jpg" target="_blank"><img data-src="img/archive_files/01/image00036.jpg" /></a><br>
-<a href="img/archive_files/01/image00039.jpg" target="_blank"><img data-src="img/archive_files/01/image00039.jpg" /></a><br>
-<a href="img/archive_files/01/image00040.jpg" target="_blank"><img data-src="img/archive_files/01/image00040.jpg" /></a><br>
-<a href="img/archive_files/01/image00043.jpg" target="_blank"><img data-src="img/archive_files/01/image00043.jpg" /></a><br>
-<a href="img/archive_files/01/image00045.jpg" target="_blank"><img data-src="img/archive_files/01/image00045.jpg" /></a><br>
-<a href="img/archive_files/01/image00046.jpg" target="_blank"><img data-src="img/archive_files/01/image00046.jpg" /></a><br>
-<a href="img/archive_files/01/image00047.jpg" target="_blank"><img data-src="img/archive_files/01/image00047.jpg" /></a><br>
-<a href="img/archive_files/01/image00048.jpg" target="_blank"><img data-src="img/archive_files/01/image00048.jpg" /></a><br>
-<a href="img/archive_files/01/image00049.jpg" target="_blank"><img data-src="img/archive_files/01/image00049.jpg" /></a><br>
-<a href="img/archive_files/01/image00049[1].jpg" target="_blank"><img data-src="img/archive_files/01/image00049[1].jpg" /></a><br>
-<a href="img/archive_files/01/image00050.jpg" target="_blank"><img data-src="img/archive_files/01/image00050.jpg" /></a><br>
-<a href="img/archive_files/01/image00051.jpg" target="_blank"><img data-src="img/archive_files/01/image00051.jpg" /></a><br>
-<a href="img/archive_files/01/image00052.jpg" target="_blank"><img data-src="img/archive_files/01/image00052.jpg" /></a><br>
-<a href="img/archive_files/01/image00053.jpg" target="_blank"><img data-src="img/archive_files/01/image00053.jpg" /></a><br>
-<a href="img/archive_files/01/db475d7b-a63f-491b-bb45-df486765b5fd.jpg" target="_blank"><img data-src="img/archive_files/01/db475d7b-a63f-491b-bb45-df486765b5fd.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/12308299_920825704678399_2278638947963195927_n.jpg", "img/archive_files/01/12308651_920825908011712_1742562251097340919_n.jpg", "img/archive_files/01/23e57097-8680-42e4-8d70-dfa435ac1bb3.jpg", "img/archive_files/01/image00001.jpg", "img/archive_files/01/image00002.jpg", "img/archive_files/01/image00003.jpg", "img/archive_files/01/image00005.jpg", "img/archive_files/01/image00006.jpg", "img/archive_files/01/image00007.jpg", "img/archive_files/01/image00008.jpg", "img/archive_files/01/image00010.jpg", "img/archive_files/01/image00011.jpg", "img/archive_files/01/image00016.jpg", "img/archive_files/01/image00017.jpg", "img/archive_files/01/image00018.jpg", "img/archive_files/01/image00019.jpg", "img/archive_files/01/image00020.jpg", "img/archive_files/01/image00020[1].jpg", "img/archive_files/01/image00023.jpg", "img/archive_files/01/image00025.jpg", "img/archive_files/01/image00026.jpg", "img/archive_files/01/image00027.jpg", "img/archive_files/01/image00028.jpg", "img/archive_files/01/image00029.jpg", "img/archive_files/01/image00031.jpg", "img/archive_files/01/image00034.jpg", "img/archive_files/01/image00035.jpg", "img/archive_files/01/image00036.jpg", "img/archive_files/01/image00039.jpg", "img/archive_files/01/image00040.jpg", "img/archive_files/01/image00043.jpg", "img/archive_files/01/image00045.jpg", "img/archive_files/01/image00046.jpg", "img/archive_files/01/image00047.jpg", "img/archive_files/01/image00048.jpg", "img/archive_files/01/image00049.jpg", "img/archive_files/01/image00049[1].jpg", "img/archive_files/01/image00050.jpg", "img/archive_files/01/image00051.jpg", "img/archive_files/01/image00052.jpg", "img/archive_files/01/image00053.jpg", "img/archive_files/01/db475d7b-a63f-491b-bb45-df486765b5fd.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2015-12-09 18:09:00</i><br>
 Mikołaj w Domu Dziecka 8.12.2015r<p>W dniu 08.12.2015 Jarosławska fundacja “Pomocna dłoń” zorganizowała w Domu dziecka w Jarosławiu imprezę z Mikołajem, połączoną z programem “Masz talent”...</p><br>
 <p>W dniu 08.12.2015 Jarosławska fundacja “Pomocna dłoń” zorganizowała w Domu dziecka w Jarosławiu imprezę z Mikołajem, połączoną z programem “Masz talent”</p><p>Mikołaj rozdał dzieciom paczki ze słodyczami, zabawki i odzież. Dzieci czynnie brały udział w programie “Masz talent”, z radością uczestniczyły w pokazywaniu swoich umiejętności artystycznych i nie tylko. Całe spotkanie z Mikołajem uatrakcyjnił muzyk Pan Janusz Rajtar, który przygotował dzieciom kolędy do wspólnego śpiewania. Dzieci również na początku naszej imprezy przygotowały teatrzyk związany ze Św. Mikołajem. Dziękujemy wychowawcom Domu dziecka za przygotowanie dzieci do całości programu. W imprezie wzięli udział wolontariusze z Ukrainy oraz członkowie Zarządu Fundacji: Lucyna Pleśniak i Łukasz Szałaj.</p><br>
-<a href="#" class="loadImages">ZOBACZ ZDJĘCIA</a><br>
-<div class="centerImgsEmpty">
-<a href="img/archive_files/01/35a896b8-25df-45cc-bb56-933f2defc7c8.jpg" target="_blank"><img data-src="img/archive_files/01/35a896b8-25df-45cc-bb56-933f2defc7c8.jpg" /></a><br>
-<a href="img/archive_files/01/3a9f13c9-8e6e-477a-bd5e-285605d70a2e.jpg" target="_blank"><img data-src="img/archive_files/01/3a9f13c9-8e6e-477a-bd5e-285605d70a2e.jpg" /></a><br>
-<a href="img/archive_files/01/473f8e59-c1af-429f-b068-cac7e7cec8f7.jpg" target="_blank"><img data-src="img/archive_files/01/473f8e59-c1af-429f-b068-cac7e7cec8f7.jpg" /></a><br>
-<a href="img/archive_files/01/9f9e3142-982e-4b43-89ed-5990c8837334.jpg" target="_blank"><img data-src="img/archive_files/01/9f9e3142-982e-4b43-89ed-5990c8837334.jpg" /></a><br>
-<a href="img/archive_files/01/d5ceb0ff-34e6-4503-b446-e8368853fe2d.jpg" target="_blank"><img data-src="img/archive_files/01/d5ceb0ff-34e6-4503-b446-e8368853fe2d.jpg" /></a><br>
-<a href="img/archive_files/01/e8909fce-7c6f-4b93-9aad-1d4b247e2f3b.jpg" target="_blank"><img data-src="img/archive_files/01/e8909fce-7c6f-4b93-9aad-1d4b247e2f3b.jpg" /></a><br>
-</div>
+<a href='#' data-src='["img/archive_files/01/35a896b8-25df-45cc-bb56-933f2defc7c8.jpg", "img/archive_files/01/3a9f13c9-8e6e-477a-bd5e-285605d70a2e.jpg", "img/archive_files/01/473f8e59-c1af-429f-b068-cac7e7cec8f7.jpg", "img/archive_files/01/9f9e3142-982e-4b43-89ed-5990c8837334.jpg", "img/archive_files/01/d5ceb0ff-34e6-4503-b446-e8368853fe2d.jpg", "img/archive_files/01/e8909fce-7c6f-4b93-9aad-1d4b247e2f3b.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
