@@ -291,7 +291,7 @@
 1269$177$994870_528373203902751_96456254_n.jpg$$1$0$4$0$1$
 10$39$9f1432674e53395c0e070071867ec162.jpg$$1$0$4$$1$
 1656$212$9f9e3142-982e-4b43-89ed-5990c8837334.jpg$$1$0$4$0$0$
-966$149$@muzyk.jpg$$1$0$4$$1$
+966$149$muzyk.jpg$$1$0$4$$1$
 571$120$ADSC_3818.jpg$$1$0$4$$1$
 801$139$AKlusowski.jpg$$1$0$2$$1$
 1187$166$Amikolaj2012 (10).JPG$$1$0$4$$$
@@ -908,11 +908,11 @@
 232$99$_DSC0588.JPG$$1$0$4$0$1$
 233$99$_DSC0598.JPG$$1$0$4$$1$
 234$99$_DSC0715.JPG$$1$0$4$$1$
-1691$218$__b_21bd020d1400fe927cc87d84011ee907 (2).jpg$Autorka zdjęcia Marta Dobrucka - Gazeta Jarosławska$1$0$4$0$0$
-1712$218$__b_3aaaf81531442e5e6bcf4432c83fe47b.jpg$Autor zdjęcia Kamil Jaworski$1$0$3$0$0$
-1536$198$__b_4dd60fca878851f12c8703b50b348ec8.jpg$$1$0$1$$$
-1713$218$__b_523cdfe5f7692710e9108e500f475c25.jpg$Autor zdjęcia Kamil Jaworski$1$0$3$0$0$
-1714$218$__b_e6c5742bfeba0969ecb16cd60d7ff93a.jpg$Autor zdjęcia Kamil Jaworski$1$0$3$0$0$
+1691$218$md01.jpg$Autorka zdjęcia Marta Dobrucka - Gazeta Jarosławska$1$0$4$0$0$
+1712$218$kj01.jpg$Autor zdjęcia Kamil Jaworski$1$0$3$0$0$
+1536$198$mt2015.jpg$$1$0$1$$$
+1713$218$kj02.jpg$Autor zdjęcia Kamil Jaworski$1$0$3$0$0$
+1714$218$kj04.jpg$Autor zdjęcia Kamil Jaworski$1$0$3$0$0$
 12$39$a06f3679df84cd26dfabface7d6cf224.jpg$$1$0$4$$1$
 120$68$akcja-prop-uswiadamiajaca-2007.jpg$$1$0$4$$1$
 1490$193$alicja.jpg$$1$0$2$$$
@@ -1306,7 +1306,7 @@
 740$131$Masz_talent_12.jpg$$1$4$4$0$1$
 995$151$P1020273.JPG$Sabinka Tomaszewska$1$4$4$0$1$
 1664$3$STATUT4.jpg$$1$4$3$0$0$
-59$92$__b_dc22235867a182c2eb4282a6c5251202.jpg$$1$4$4$0$0$
+59$92$kj03.jpg$$1$4$4$0$0$
 1016$158$koncert-dzem-2012 (4).jpg$$1$4$4$0$0$
 1747$222$phto4.jpg$$1$4$4$$$
 352$107$zmasz-talent1.jpg$$1$4$4$0$1$

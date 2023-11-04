@@ -28,7 +28,7 @@ Talony na Dzień Dziecka<p>Dzień Dziecka pod patronatem Senatora RP Andrzeja Ta
 <i>2001-06-03 14:41:00</i><br>
 Dzień dziecka<p>Tegorocznym obchodom Dnia Dziecka patronowali: Senator RP Andrzej T. Mazurkiewicz, Burmistrz Miasta Jan Gilowski oraz Fundacja "Pomocna dłoń" reprezentowana przez Prezes Alicję Zając.</p><br>
 <br>
-<a href='#' data-src='["img/archive_files/01/dzien_dziecka_2002[1].jpg", "img/archive_files/01/dzien_dziecka[1].jpg", "img/archive_files/01/1dzien_dziecka_2002[1].jpg", "img/archive_files/01/__b_dc22235867a182c2eb4282a6c5251202.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
+<a href='#' data-src='["img/archive_files/01/dzien_dziecka_2002[1].jpg", "img/archive_files/01/dzien_dziecka[1].jpg", "img/archive_files/01/1dzien_dziecka_2002[1].jpg", "img/archive_files/01/kj03.jpg"]' onclick='openImageBrowser(event, 0)' class='gallery-loadImages'>ZOBACZ ZDJĘCIA</a>
 </div>
 <div class="archiveItem">
 <i>2001-08-16 14:45:00</i><br>
