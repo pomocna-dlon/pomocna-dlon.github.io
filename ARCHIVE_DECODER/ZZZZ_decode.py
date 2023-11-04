@@ -18,7 +18,7 @@ def find_ext(page_id):
 def find_files(page_id):
 	files_list = []
 	
-	pattern = r'^\d+\$' + page_id + '\$([^\$]+)'
+	pattern = r'^\d+\$' + page_id + '\$([^\$]+)\$(.*?)\$'
 	
 	with open('pl_pages_files.php', 'r', encoding='utf-8') as pages_files_file:
 		for pages_files_line in pages_files_file:
@@ -31,7 +31,7 @@ def find_files(page_id):
 						file_path = file_path.lower()
 						
 						if not file_path[-3:] in ("swf", "doc", "docx", "pdf",):
-							files_list.append("img/archive_files/%s/%s"%(i, os.path.basename(file_path),))
+							files_list.append(["img/archive_files/%s/%s"%(i, os.path.basename(file_path),), match.group(2).strip()])
 	
 	return files_list
 	
