@@ -8,4 +8,3 @@ title: Wydarzenia
 <div style="position:relative;width:500px;margin:0 auto;">
 	<div class="fb-page" data-href="https://www.facebook.com/pomocnadlonjaroslaw/" data-tabs="timeline" data-width="500" data-height="750" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/pomocnadlonjaroslaw/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pomocnadlonjaroslaw/">Jarosławska Fundacja Pomocna Dłoń</a></blockquote></div>
 </div>
-
