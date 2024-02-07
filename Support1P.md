@@ -6,7 +6,7 @@ title: Przekaż 1%
   
 **Wystarczy, że w rocznym rozliczeniu PIT wpiszesz nazwę naszej Fundacji oraz nasz numer KRS: 0000094513**
   
-![pit](/img/1procent.jpg)
+![pit](/img/1procent.png)
   
-![baner](/img/Baner_1__Pomocna Dlon.jpg)
+![baner](/img/Baner_1__Pomocna Dlon.png)
 
