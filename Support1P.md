@@ -1,8 +1,8 @@
 ---
-title: Przekaż 1%
+title: Przekaż 1,5%
 ---
 
-**Przekaż 1% podatku aby wesprzeć nasze inicjatywy!**  
+**Przekaż 1,5% podatku aby wesprzeć nasze inicjatywy!**  
   
 **Wystarczy, że w rocznym rozliczeniu PIT wpiszesz nazwę naszej Fundacji oraz nasz numer KRS: 0000094513**
   
